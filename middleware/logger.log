@@ -1,0 +1,1742 @@
+2024/07/09 22:54:48 Start GetUser controller
+2024/07/09 22:54:48 Start GetUserByID service
+2024/07/09 22:54:48 Start GetByID repository
+2024/07/09 22:54:48 GetByID repository completed in 833.5µs
+2024/07/09 22:54:48 GetUserByID service completed in 833.5µs
+2024/07/09 22:54:48 GetUser controller completed in 1.8316ms
+2024/07/09 22:54:48 [2024/07/09 - 22:54:48] GET /users/17 - Status: 200 - Latency: 1.8316ms
+2024/07/09 22:54:55 Start GetUser controller
+2024/07/09 22:54:55 Start GetUserByID service
+2024/07/09 22:54:55 Start GetByID repository
+2024/07/09 22:54:55 GetByID repository completed in 504µs
+2024/07/09 22:54:55 GetUserByID service completed in 1.0697ms
+2024/07/09 22:54:55 GetUser controller completed in 1.0697ms
+2024/07/09 22:54:55 [2024/07/09 - 22:54:55] GET /users/17 - Status: 200 - Latency: 1.0697ms
+2024/07/09 22:55:12 Start CreateUser controller
+2024/07/09 22:55:12 Start CreateUser service
+2024/07/09 22:55:12 Start Create repository
+2024/07/09 22:55:12 Create repository completed in 4.9301ms
+2024/07/09 22:55:12 CreateUser service completed in 4.9301ms
+2024/07/09 22:55:12 CreateUser controller completed in 64.8643ms
+2024/07/09 22:55:12 [2024/07/09 - 22:55:12] POST /users - Status: 201 - Latency: 64.8643ms
+2024/07/09 22:55:16 Start CreateUser controller
+2024/07/09 22:55:16 Start CreateUser service
+2024/07/09 22:55:16 Start Create repository
+2024/07/09 22:55:16 Create repository completed in 5.6604ms
+2024/07/09 22:55:16 CreateUser service completed in 5.6604ms
+2024/07/09 22:55:16 CreateUser controller completed in 82.6309ms
+2024/07/09 22:55:16 [2024/07/09 - 22:55:16] POST /users - Status: 201 - Latency: 82.6309ms
+2024/07/09 22:55:20 Start CreateUser controller
+2024/07/09 22:55:20 Start CreateUser service
+2024/07/09 22:55:20 Start Create repository
+2024/07/09 22:55:20 Create repository completed in 1.9944ms
+2024/07/09 22:55:20 CreateUser service completed in 1.9944ms
+2024/07/09 22:55:20 CreateUser controller completed in 76.0405ms
+2024/07/09 22:55:20 [2024/07/09 - 22:55:20] POST /users - Status: 201 - Latency: 76.0405ms
+2024/07/09 22:55:27 Start UpdateUser controller
+2024/07/09 22:55:27 Start GetUserByID service
+2024/07/09 22:55:27 Start GetByID repository
+2024/07/09 22:55:27 GetByID repository completed in 544.1µs
+2024/07/09 22:55:27 GetUserByID service completed in 544.1µs
+2024/07/09 22:55:27 Start UpdateUser service
+2024/07/09 22:55:27 Start Update repository
+2024/07/09 22:55:27 Start GetByID repository
+2024/07/09 22:55:27 GetByID repository completed in 806.3µs
+2024/07/09 22:55:27 Update repository completed in 806.3µs
+2024/07/09 22:55:27 UpdateUser service completed in 806.3µs
+2024/07/09 22:55:27 UpdateUser controller completed in 2.1197ms
+2024/07/09 22:55:27 [2024/07/09 - 22:55:27] PUT /users/16 - Status: 200 - Latency: 2.1197ms
+2024/07/09 22:55:34 Start UpdateUser controller
+2024/07/09 22:55:34 Start GetUserByID service
+2024/07/09 22:55:34 Start GetByID repository
+2024/07/09 22:55:34 GetByID repository completed in 766.5µs
+2024/07/09 22:55:34 GetUserByID service completed in 766.5µs
+2024/07/09 22:55:34 Start UpdateUser service
+2024/07/09 22:55:34 Start Update repository
+2024/07/09 22:55:34 Start GetByID repository
+2024/07/09 22:55:34 GetByID repository completed in 509.5µs
+2024/07/09 22:55:34 Update repository completed in 509.5µs
+2024/07/09 22:55:34 UpdateUser service completed in 509.5µs
+2024/07/09 22:55:34 UpdateUser controller completed in 2.2944ms
+2024/07/09 22:55:34 [2024/07/09 - 22:55:34] PUT /users/16 - Status: 200 - Latency: 2.2944ms
+2024/07/09 22:55:47 Start GetUsers controller
+2024/07/09 22:55:47 Start GetUsers service
+2024/07/09 22:55:47 Start GetUsers repository
+2024/07/09 22:55:47 GetUsers repository completed in 0s
+2024/07/09 22:55:47 GetUsers service completed in 0s
+2024/07/09 22:55:47 GetUsers controller completed in 808µs
+2024/07/09 22:55:47 [2024/07/09 - 22:55:47] GET /users/ - Status: 200 - Latency: 808µs
+2024/07/09 22:55:54 Start GetUsers controller
+2024/07/09 22:55:54 Start GetUsers service
+2024/07/09 22:55:54 Start GetUsers repository
+2024/07/09 22:55:54 GetUsers repository completed in 507.6µs
+2024/07/09 22:55:54 GetUsers service completed in 507.6µs
+2024/07/09 22:55:54 GetUsers controller completed in 1.6133ms
+2024/07/09 22:55:54 [2024/07/09 - 22:55:54] GET /users/ - Status: 200 - Latency: 1.6133ms
+2024/07/09 22:55:56 Start GetUsers controller
+2024/07/09 22:55:56 Start GetUsers service
+2024/07/09 22:55:56 Start GetUsers repository
+2024/07/09 22:55:56 GetUsers repository completed in 0s
+2024/07/09 22:55:56 GetUsers service completed in 0s
+2024/07/09 22:55:56 GetUsers controller completed in 1.142ms
+2024/07/09 22:55:56 [2024/07/09 - 22:55:56] GET /users/ - Status: 200 - Latency: 1.142ms
+2024/07/09 22:55:58 Start GetUsers controller
+2024/07/09 22:55:58 Start GetUsers service
+2024/07/09 22:55:58 Start GetUsers repository
+2024/07/09 22:55:58 GetUsers repository completed in 0s
+2024/07/09 22:55:58 GetUsers service completed in 0s
+2024/07/09 22:55:58 GetUsers controller completed in 617.5µs
+2024/07/09 22:55:58 [2024/07/09 - 22:55:58] GET /users/ - Status: 200 - Latency: 617.5µs
+2024/07/09 22:56:57 Start DeleteUser controller
+2024/07/09 22:56:57 Start GetUserByID service
+2024/07/09 22:56:57 Start GetByID repository
+2024/07/09 22:56:57 GetByID repository completed in 533.3µs
+2024/07/09 22:56:57 GetUserByID service completed in 533.3µs
+2024/07/09 22:56:57 Start DeleteUser service
+2024/07/09 22:56:57 Start Delete repository
+2024/07/09 22:56:57 Delete repository completed in 4.656ms
+2024/07/09 22:56:57 DeleteUser service completed in 5.5727ms
+2024/07/09 22:56:57 DeleteUser controller completed in 7.1409ms
+2024/07/09 22:56:57 [2024/07/09 - 22:56:57] DELETE /users/15 - Status: 200 - Latency: 7.1409ms
+2024/07/09 22:57:07 Start DeleteUser controller
+2024/07/09 22:57:07 Start GetUserByID service
+2024/07/09 22:57:07 Start GetByID repository
+2024/07/09 22:57:07 GetByID repository completed in 0s
+2024/07/09 22:57:07 GetUserByID service completed in 0s
+2024/07/09 22:57:07 Start DeleteUser service
+2024/07/09 22:57:07 Start Delete repository
+2024/07/09 22:57:07 Delete repository completed in 1.577ms
+2024/07/09 22:57:07 DeleteUser service completed in 2.2845ms
+2024/07/09 22:57:07 DeleteUser controller completed in 2.7507ms
+2024/07/09 22:57:07 [2024/07/09 - 22:57:07] DELETE /users/16 - Status: 200 - Latency: 2.7507ms
+2024/07/09 22:57:13 Start DeleteUser controller
+2024/07/09 22:57:13 Start GetUserByID service
+2024/07/09 22:57:13 Start GetByID repository
+2024/07/09 22:57:13 GetByID repository completed in 0s
+2024/07/09 22:57:13 GetUserByID service completed in 851.1µs
+2024/07/09 22:57:13 Start DeleteUser service
+2024/07/09 22:57:13 Start Delete repository
+2024/07/09 22:57:13 Delete repository completed in 1.568ms
+2024/07/09 22:57:13 DeleteUser service completed in 1.9046ms
+2024/07/09 22:57:13 DeleteUser controller completed in 2.7557ms
+2024/07/09 22:57:13 [2024/07/09 - 22:57:13] DELETE /users/17 - Status: 200 - Latency: 2.7557ms
+2024/07/10 09:49:52 Starting server on :8000
+2024/07/10 09:51:37 Start GetUsers controller
+2024/07/10 09:51:37 Start GetUsers service
+2024/07/10 09:51:37 Start GetUsers repository
+2024/07/10 09:51:37 GetUsers repository completed in 40.3192ms
+2024/07/10 09:51:37 GetUsers service completed in 41.0495ms
+2024/07/10 09:51:37 GetUsers controller completed in 41.0495ms
+2024/07/10 09:51:37 [2024/07/10 - 09:51:37] GET /users/ - Status: 200 - Latency: 41.0495ms
+2024/07/10 09:51:46 Start GetUsers controller
+2024/07/10 09:51:46 Start GetUsers service
+2024/07/10 09:51:46 Start GetUsers repository
+2024/07/10 09:51:46 GetUsers repository completed in 511µs
+2024/07/10 09:51:46 GetUsers service completed in 511µs
+2024/07/10 09:51:46 GetUsers controller completed in 511µs
+2024/07/10 09:51:46 [2024/07/10 - 09:51:46] GET /users/ - Status: 200 - Latency: 511µs
+2024/07/10 09:51:53 Start GetUsers controller
+2024/07/10 09:51:53 Start GetUsers service
+2024/07/10 09:51:53 Start GetUsers repository
+2024/07/10 09:51:53 GetUsers repository completed in 0s
+2024/07/10 09:51:53 GetUsers service completed in 0s
+2024/07/10 09:51:53 GetUsers controller completed in 551.7µs
+2024/07/10 09:51:53 [2024/07/10 - 09:51:53] GET /users/ - Status: 200 - Latency: 551.7µs
+2024/07/10 10:49:28 Starting server on :8000
+2024/07/10 10:49:34 Start CreateUser controller
+2024/07/10 10:49:34 Start CreateUser service
+2024/07/10 10:49:34 Start Create repository
+2024/07/10 10:49:34 Create repository prepare error: sql: database is closed
+2024/07/10 10:49:34 CreateUser service error: sql: database is closed
+2024/07/10 10:49:34 CreateUser controller service error: sql: database is closed
+2024/07/10 10:49:34 CreateUser controller completed in 70.4693ms
+2024/07/10 10:49:34 [2024/07/10 - 10:49:34] POST /users/ - Status: 500 - Latency: 70.4693ms
+2024/07/10 10:49:34 [2024/07/10 - 10:49:34] POST /users/ - Status: 500 - Latency: 70.4693ms
+2024/07/10 10:49:53 Starting server on :8000
+2024/07/10 10:49:56 Start CreateUser controller
+2024/07/10 10:49:56 Start CreateUser service
+2024/07/10 10:49:56 Start Create repository
+2024/07/10 10:49:56 Create repository completed in 4.6003ms
+2024/07/10 10:49:56 CreateUser service completed in 4.6003ms
+2024/07/10 10:49:56 CreateUser controller completed in 79.8327ms
+2024/07/10 10:49:56 [2024/07/10 - 10:49:56] POST /users/ - Status: 201 - Latency: 79.8327ms
+2024/07/10 10:49:56 [2024/07/10 - 10:49:56] POST /users/ - Status: 201 - Latency: 79.8327ms
+2024/07/10 10:50:00 Start CreateUser controller
+2024/07/10 10:50:01 Start CreateUser service
+2024/07/10 10:50:01 Start Create repository
+2024/07/10 10:50:19 Starting server on :8000
+2024/07/10 10:50:21 Start CreateUser controller
+2024/07/10 10:50:21 Start CreateUser service
+2024/07/10 10:50:21 Start Create repository
+2024/07/10 10:50:59 Start GetUsers controller
+2024/07/10 10:50:59 Start GetUsers service
+2024/07/10 10:50:59 Start GetUsers repository
+2024/07/10 10:50:59 GetUsers repository completed in 1.1987ms
+2024/07/10 10:50:59 GetUsers service completed in 1.1987ms
+2024/07/10 10:50:59 GetUsers controller completed in 1.4215ms
+2024/07/10 10:50:59 [2024/07/10 - 10:50:59] GET /users/ - Status: 200 - Latency: 1.4215ms
+2024/07/10 10:50:59 [2024/07/10 - 10:50:59] GET /users/ - Status: 200 - Latency: 1.4215ms
+2024/07/10 10:51:04 Start GetUsers controller
+2024/07/10 10:51:04 Start GetUsers service
+2024/07/10 10:51:04 Start GetUsers repository
+2024/07/10 10:51:04 GetUsers repository completed in 505µs
+2024/07/10 10:51:04 GetUsers service completed in 951.5µs
+2024/07/10 10:51:04 GetUsers controller completed in 951.5µs
+2024/07/10 10:51:04 [2024/07/10 - 10:51:04] GET /users/ - Status: 200 - Latency: 951.5µs
+2024/07/10 10:51:04 [2024/07/10 - 10:51:04] GET /users/ - Status: 200 - Latency: 951.5µs
+2024/07/10 10:51:11 Start GetUser controller
+2024/07/10 10:51:11 Start GetUserByID service
+2024/07/10 10:51:11 Start GetByID repository
+2024/07/10 10:51:11 GetByID repository no rows found
+2024/07/10 10:51:11 GetUserByID service completed in 997µs
+2024/07/10 10:51:11 GetUser controller error: user not found
+2024/07/10 10:51:11 GetUser controller completed in 997µs
+2024/07/10 10:51:11 [2024/07/10 - 10:51:11] GET /users/17 - Status: 404 - Latency: 997µs
+2024/07/10 10:51:11 [2024/07/10 - 10:51:11] GET /users/17 - Status: 404 - Latency: 997µs
+2024/07/10 10:51:17 Start GetUser controller
+2024/07/10 10:51:17 Start GetUserByID service
+2024/07/10 10:51:17 Start GetByID repository
+2024/07/10 10:51:17 GetByID repository completed in 1.1427ms
+2024/07/10 10:51:17 GetUserByID service completed in 1.1427ms
+2024/07/10 10:51:17 GetUser controller completed in 1.1427ms
+2024/07/10 10:51:17 [2024/07/10 - 10:51:17] GET /users/20 - Status: 200 - Latency: 1.1427ms
+2024/07/10 10:51:17 [2024/07/10 - 10:51:17] GET /users/20 - Status: 200 - Latency: 1.1427ms
+2024/07/10 10:51:21 Start GetUser controller
+2024/07/10 10:51:21 Start GetUserByID service
+2024/07/10 10:51:21 Start GetByID repository
+2024/07/10 10:51:21 GetByID repository completed in 514.1µs
+2024/07/10 10:51:21 GetUserByID service completed in 514.1µs
+2024/07/10 10:51:21 GetUser controller completed in 1.4373ms
+2024/07/10 10:51:21 [2024/07/10 - 10:51:21] GET /users/20 - Status: 200 - Latency: 1.4373ms
+2024/07/10 10:51:21 [2024/07/10 - 10:51:21] GET /users/20 - Status: 200 - Latency: 1.4373ms
+2024/07/10 10:51:24 Start GetUser controller
+2024/07/10 10:51:24 Start GetUserByID service
+2024/07/10 10:51:24 Start GetByID repository
+2024/07/10 10:51:24 GetByID repository completed in 507.4µs
+2024/07/10 10:51:24 GetUserByID service completed in 507.4µs
+2024/07/10 10:51:24 GetUser controller completed in 703.6µs
+2024/07/10 10:51:24 [2024/07/10 - 10:51:24] GET /users/20 - Status: 200 - Latency: 703.6µs
+2024/07/10 10:51:24 [2024/07/10 - 10:51:24] GET /users/20 - Status: 200 - Latency: 703.6µs
+2024/07/10 10:52:27 Start GetUser controller
+2024/07/10 10:52:27 Start GetUserByID service
+2024/07/10 10:52:27 Start GetByID repository
+2024/07/10 10:52:27 GetByID repository completed in 509.1µs
+2024/07/10 10:52:27 GetUserByID service completed in 701.1µs
+2024/07/10 10:52:27 GetUser controller completed in 1.2177ms
+2024/07/10 10:52:27 [2024/07/10 - 10:52:27] GET /users/20 - Status: 200 - Latency: 1.2177ms
+2024/07/10 10:52:27 [2024/07/10 - 10:52:27] GET /users/20 - Status: 200 - Latency: 1.2177ms
+2024/07/10 10:52:30 Start CreateUser controller
+2024/07/10 10:52:30 Start CreateUser service
+2024/07/10 10:52:30 Start Create repository
+2024/07/10 10:53:02 Starting server on :8000
+2024/07/10 10:53:05 Start CreateUser controller
+2024/07/10 10:53:05 Start CreateUser service
+2024/07/10 10:53:05 Start Create repository
+2024/07/10 10:57:10 Starting server on :8000
+2024/07/10 10:57:16 Start CreateUser controller
+2024/07/10 10:57:16 Start CreateUser service
+2024/07/10 10:57:16 Start Create repository
+2024/07/10 10:58:40 Starting server on :8000
+2024/07/10 10:58:42 Start CreateUser controller
+2024/07/10 10:58:43 Start CreateUser service
+2024/07/10 10:58:43 Start Create repository
+2024/07/10 11:00:27 Starting server on :8000
+2024/07/10 11:00:31 Start CreateUser controller
+2024/07/10 11:00:32 Start CreateUser service
+2024/07/10 11:00:32 Start Create repository
+2024/07/10 11:00:49 Start GetUser controller
+2024/07/10 11:00:49 Start GetUserByID service
+2024/07/10 11:00:49 Start GetByID repository
+2024/07/10 11:00:49 GetByID repository completed in 1.1391ms
+2024/07/10 11:00:49 GetUserByID service completed in 1.1391ms
+2024/07/10 11:00:49 GetUser controller completed in 1.1391ms
+2024/07/10 11:00:49 [2024/07/10 - 11:00:49] GET /users/20 - Status: 200 - Latency: 1.1391ms
+2024/07/10 11:00:49 [2024/07/10 - 11:00:49] GET /users/20 - Status: 200 - Latency: 1.1391ms
+2024/07/10 11:01:00 Start UpdateUser controller
+2024/07/10 11:01:00 Start GetUserByID service
+2024/07/10 11:01:00 Start GetByID repository
+2024/07/10 11:01:00 GetByID repository completed in 505.3µs
+2024/07/10 11:01:00 GetUserByID service completed in 505.3µs
+2024/07/10 11:01:00 Start UpdateUser service
+2024/07/10 11:01:00 Start Update repository
+2024/07/10 11:01:05 UpdateUser service error: operation timed out
+2024/07/10 11:01:05 UpdateUser controller update service error: operation timed out
+2024/07/10 11:01:05 UpdateUser controller completed in 5.014833s
+2024/07/10 11:01:05 [2024/07/10 - 11:01:00] PUT /users/20 - Status: 500 - Latency: 5.014833s
+2024/07/10 11:01:05 [2024/07/10 - 11:01:00] PUT /users/20 - Status: 500 - Latency: 5.014833s
+2024/07/10 11:03:03 Starting server on :8000
+2024/07/10 11:03:12 Start UpdateUser controller
+2024/07/10 11:03:12 Start GetUserByID service
+2024/07/10 11:03:12 Start GetByID repository
+2024/07/10 11:03:12 GetByID repository completed in 166.3671ms
+2024/07/10 11:03:12 GetUserByID service completed in 166.3671ms
+2024/07/10 11:03:12 Start UpdateUser service
+2024/07/10 11:03:12 Start Update repository
+2024/07/10 11:03:22 UpdateUser service error: operation timed out
+2024/07/10 11:03:22 UpdateUser controller update service error: operation timed out
+2024/07/10 11:03:22 UpdateUser controller completed in 10.1750628s
+2024/07/10 11:03:22 [2024/07/10 - 11:03:12] PUT /users/20 - Status: 500 - Latency: 10.1750628s
+2024/07/10 11:03:22 [2024/07/10 - 11:03:12] PUT /users/20 - Status: 500 - Latency: 10.1750628s
+2024/07/10 11:03:54 Start GetUser controller
+2024/07/10 11:03:54 Start GetUserByID service
+2024/07/10 11:03:54 Start GetByID repository
+2024/07/10 11:03:54 GetByID repository completed in 165.7712ms
+2024/07/10 11:03:54 GetUserByID service completed in 166.2571ms
+2024/07/10 11:03:54 GetUser controller completed in 166.2571ms
+2024/07/10 11:03:54 [2024/07/10 - 11:03:54] GET /users/20 - Status: 200 - Latency: 166.2571ms
+2024/07/10 11:03:54 [2024/07/10 - 11:03:54] GET /users/20 - Status: 200 - Latency: 166.2571ms
+2024/07/10 11:03:59 Start GetUser controller
+2024/07/10 11:03:59 Start GetUserByID service
+2024/07/10 11:03:59 Start GetByID repository
+2024/07/10 11:03:59 GetByID repository completed in 795.4µs
+2024/07/10 11:03:59 GetUserByID service completed in 1.1622ms
+2024/07/10 11:03:59 GetUser controller completed in 1.1622ms
+2024/07/10 11:03:59 [2024/07/10 - 11:03:59] GET /users/20 - Status: 200 - Latency: 1.1622ms
+2024/07/10 11:03:59 [2024/07/10 - 11:03:59] GET /users/20 - Status: 200 - Latency: 1.1622ms
+2024/07/10 11:04:02 Start GetUser controller
+2024/07/10 11:04:02 Start GetUserByID service
+2024/07/10 11:04:02 Start GetByID repository
+2024/07/10 11:04:02 GetByID repository completed in 517.4µs
+2024/07/10 11:04:02 GetUserByID service completed in 1.5051ms
+2024/07/10 11:04:02 GetUser controller completed in 1.5051ms
+2024/07/10 11:04:02 [2024/07/10 - 11:04:02] GET /users/20 - Status: 200 - Latency: 1.5051ms
+2024/07/10 11:04:02 [2024/07/10 - 11:04:02] GET /users/20 - Status: 200 - Latency: 1.5051ms
+2024/07/10 11:04:03 Update repository exec error: Error 1205 (HY000): Lock wait timeout exceeded; try restarting transaction
+2024/07/10 11:04:06 Start GetUsers controller
+2024/07/10 11:04:06 Start GetUsers service
+2024/07/10 11:04:06 Start GetUsers repository
+2024/07/10 11:04:06 GetUsers repository completed in 0s
+2024/07/10 11:04:06 GetUsers service completed in 0s
+2024/07/10 11:04:06 GetUsers controller completed in 1.1361ms
+2024/07/10 11:04:06 [2024/07/10 - 11:04:06] GET /users/ - Status: 200 - Latency: 1.1361ms
+2024/07/10 11:04:06 [2024/07/10 - 11:04:06] GET /users/ - Status: 200 - Latency: 1.1361ms
+2024/07/10 11:04:09 Start GetUsers controller
+2024/07/10 11:04:09 Start GetUsers service
+2024/07/10 11:04:09 Start GetUsers repository
+2024/07/10 11:04:09 GetUsers repository completed in 667.8µs
+2024/07/10 11:04:09 GetUsers service completed in 1.1783ms
+2024/07/10 11:04:09 GetUsers controller completed in 1.1783ms
+2024/07/10 11:04:09 [2024/07/10 - 11:04:09] GET /users/ - Status: 200 - Latency: 1.1783ms
+2024/07/10 11:04:09 [2024/07/10 - 11:04:09] GET /users/ - Status: 200 - Latency: 1.1783ms
+2024/07/10 11:05:17 Start DeleteUser controller
+2024/07/10 11:05:17 Start GetUserByID service
+2024/07/10 11:05:17 Start GetByID repository
+2024/07/10 11:05:17 GetByID repository completed in 1.3787ms
+2024/07/10 11:05:17 GetUserByID service completed in 1.3787ms
+2024/07/10 11:05:17 Start DeleteUser service
+2024/07/10 11:05:17 Start Delete repository
+2024/07/10 11:05:27 DeleteUser service error: operation timed out
+2024/07/10 11:05:27 DeleteUser controller delete service error: operation timed out
+2024/07/10 11:05:27 DeleteUser controller completed in 10.0031917s
+2024/07/10 11:05:27 [2024/07/10 - 11:05:17] DELETE /users/20 - Status: 500 - Latency: 10.0031917s
+2024/07/10 11:05:27 [2024/07/10 - 11:05:17] DELETE /users/20 - Status: 500 - Latency: 10.0031917s
+2024/07/10 11:05:58 Delete repository exec error: invalid connection
+2024/07/10 11:08:03 Starting server on :8000
+2024/07/10 11:08:07 Start DeleteUser controller
+2024/07/10 11:08:07 Start GetUserByID service
+2024/07/10 11:08:07 Start GetByID repository
+2024/07/10 11:08:07 GetByID repository completed in 1.2676ms
+2024/07/10 11:08:07 GetUserByID service completed in 1.2676ms
+2024/07/10 11:08:07 Start DeleteUser service
+2024/07/10 11:08:07 Start Delete repository
+2024/07/10 11:08:07 Delete repository completed in 1.0178ms
+2024/07/10 11:08:07 DeleteUser service completed in 1.3688ms
+2024/07/10 11:08:07 DeleteUser controller completed in 3.2204ms
+2024/07/10 11:08:07 [2024/07/10 - 11:08:07] DELETE /users/20 - Status: 200 - Latency: 3.2204ms
+2024/07/10 11:08:07 [2024/07/10 - 11:08:07] DELETE /users/20 - Status: 200 - Latency: 3.2204ms
+2024/07/10 11:08:10 Start CreateUser controller
+2024/07/10 11:08:10 Start CreateUser service
+2024/07/10 11:08:10 Start Create repository
+2024/07/10 11:08:10 Create repository completed in 2.885ms
+2024/07/10 11:08:10 CreateUser service completed in 2.885ms
+2024/07/10 11:08:10 CreateUser controller completed in 87.3099ms
+2024/07/10 11:08:10 [2024/07/10 - 11:08:10] POST /users - Status: 201 - Latency: 87.3099ms
+2024/07/10 11:08:10 [2024/07/10 - 11:08:10] POST /users - Status: 201 - Latency: 87.3099ms
+2024/07/10 11:09:10 Start CreateUser controller
+2024/07/10 11:09:10 Start CreateUser service
+2024/07/10 11:09:10 Start Create repository
+2024/07/10 11:09:10 Create repository completed in 2.547ms
+2024/07/10 11:09:10 CreateUser service completed in 2.547ms
+2024/07/10 11:09:10 CreateUser controller completed in 88.8334ms
+2024/07/10 11:09:10 [2024/07/10 - 11:09:10] POST /users - Status: 201 - Latency: 88.8334ms
+2024/07/10 11:09:10 [2024/07/10 - 11:09:10] POST /users - Status: 201 - Latency: 88.8334ms
+2024/07/10 11:09:13 Start CreateUser controller
+2024/07/10 11:09:13 Start CreateUser service
+2024/07/10 11:09:13 Start Create repository
+2024/07/10 11:09:13 Create repository completed in 3.0367ms
+2024/07/10 11:09:13 CreateUser service completed in 3.0367ms
+2024/07/10 11:09:13 CreateUser controller completed in 93.5337ms
+2024/07/10 11:09:13 [2024/07/10 - 11:09:13] POST /users - Status: 201 - Latency: 93.5337ms
+2024/07/10 11:09:13 [2024/07/10 - 11:09:13] POST /users - Status: 201 - Latency: 93.5337ms
+2024/07/10 11:26:09 Starting server on :8000
+2024/07/10 11:26:15 Start CreateUser controller
+2024/07/10 11:26:16 Start CreateUser service
+2024/07/10 11:26:16 Start Create repository
+2024/07/10 11:26:16 Create repository completed in 3.6567ms
+2024/07/10 11:26:16 CreateUser service completed in 3.6567ms
+2024/07/10 11:26:16 CreateUser controller completed in 72.9817ms
+2024/07/10 11:26:16 [2024/07/10 - 11:26:15] POST /users - Status: 201 - Latency: 72.9817ms
+2024/07/10 11:26:16 [2024/07/10 - 11:26:15] POST /users - Status: 201 - Latency: 72.9817ms
+2024/07/10 11:26:20 Start GetUser controller
+2024/07/10 11:26:20 Start GetUserByID service
+2024/07/10 11:26:20 Start GetByID repository
+2024/07/10 11:26:20 GetByID repository no rows found
+2024/07/10 11:26:20 GetUserByID service completed in 894.5µs
+2024/07/10 11:26:20 GetUser controller error: user not found
+2024/07/10 11:26:20 GetUser controller completed in 894.5µs
+2024/07/10 11:26:20 [2024/07/10 - 11:26:20] GET /users/20 - Status: 404 - Latency: 894.5µs
+2024/07/10 11:26:20 [2024/07/10 - 11:26:20] GET /users/20 - Status: 404 - Latency: 894.5µs
+2024/07/10 11:26:30 Start GetUsers controller
+2024/07/10 11:26:30 Start GetUsers service
+2024/07/10 11:26:30 Start GetUsers repository
+2024/07/10 11:26:30 GetUsers repository completed in 508.5µs
+2024/07/10 11:26:30 GetUsers service completed in 1.7933ms
+2024/07/10 11:26:30 GetUsers controller completed in 1.7933ms
+2024/07/10 11:26:30 [2024/07/10 - 11:26:30] GET /users/ - Status: 200 - Latency: 1.7933ms
+2024/07/10 11:26:30 [2024/07/10 - 11:26:30] GET /users/ - Status: 200 - Latency: 1.7933ms
+2024/07/10 11:26:36 Start GetUsers controller
+2024/07/10 11:26:36 Start GetUsers service
+2024/07/10 11:26:36 Start GetUsers repository
+2024/07/10 11:26:36 GetUsers repository completed in 543.1µs
+2024/07/10 11:26:36 GetUsers service completed in 707.9µs
+2024/07/10 11:26:36 GetUsers controller completed in 1.7205ms
+2024/07/10 11:26:36 [2024/07/10 - 11:26:36] GET /users/ - Status: 200 - Latency: 1.7205ms
+2024/07/10 11:26:36 [2024/07/10 - 11:26:36] GET /users/ - Status: 200 - Latency: 1.7205ms
+2024/07/10 11:26:39 Start GetUsers controller
+2024/07/10 11:26:39 Start GetUsers service
+2024/07/10 11:26:39 Start GetUsers repository
+2024/07/10 11:26:39 GetUsers repository completed in 0s
+2024/07/10 11:26:39 GetUsers service completed in 0s
+2024/07/10 11:26:39 GetUsers controller completed in 0s
+2024/07/10 11:26:39 [2024/07/10 - 11:26:39] GET /users/ - Status: 200 - Latency: 0s
+2024/07/10 11:26:39 [2024/07/10 - 11:26:39] GET /users/ - Status: 200 - Latency: 0s
+2024/07/10 11:26:42 Start GetUsers controller
+2024/07/10 11:26:42 Start GetUsers service
+2024/07/10 11:26:42 Start GetUsers repository
+2024/07/10 11:26:42 GetUsers repository completed in 0s
+2024/07/10 11:26:42 GetUsers service completed in 0s
+2024/07/10 11:26:42 GetUsers controller completed in 902.6µs
+2024/07/10 11:26:42 [2024/07/10 - 11:26:42] GET /users/ - Status: 200 - Latency: 902.6µs
+2024/07/10 11:26:42 [2024/07/10 - 11:26:42] GET /users/ - Status: 200 - Latency: 902.6µs
+2024/07/10 11:27:08 Start GetUsers controller
+2024/07/10 11:27:08 Start GetUsers service
+2024/07/10 11:27:08 Start GetUsers repository
+2024/07/10 11:27:08 GetUsers repository completed in 505µs
+2024/07/10 11:27:08 GetUsers service completed in 505µs
+2024/07/10 11:27:08 GetUsers controller completed in 878.7µs
+2024/07/10 11:27:08 [2024/07/10 - 11:27:08] GET /users/ - Status: 200 - Latency: 878.7µs
+2024/07/10 11:27:08 [2024/07/10 - 11:27:08] GET /users/ - Status: 200 - Latency: 878.7µs
+2024/07/10 11:27:12 Start GetUsers controller
+2024/07/10 11:27:12 Start GetUsers service
+2024/07/10 11:27:12 Start GetUsers repository
+2024/07/10 11:27:12 GetUsers repository completed in 1.1641ms
+2024/07/10 11:27:12 GetUsers service completed in 1.1641ms
+2024/07/10 11:27:12 GetUsers controller completed in 1.3265ms
+2024/07/10 11:27:12 [2024/07/10 - 11:27:12] GET /users/ - Status: 200 - Latency: 1.3265ms
+2024/07/10 11:27:12 [2024/07/10 - 11:27:12] GET /users/ - Status: 200 - Latency: 1.3265ms
+2024/07/10 11:27:16 Start GetUsers controller
+2024/07/10 11:27:16 Start GetUsers service
+2024/07/10 11:27:16 Start GetUsers repository
+2024/07/10 11:27:16 GetUsers repository completed in 506µs
+2024/07/10 11:27:16 GetUsers service completed in 691.6µs
+2024/07/10 11:27:16 GetUsers controller completed in 1.3582ms
+2024/07/10 11:27:16 [2024/07/10 - 11:27:16] GET /users/ - Status: 200 - Latency: 1.3582ms
+2024/07/10 11:27:16 [2024/07/10 - 11:27:16] GET /users/ - Status: 200 - Latency: 1.3582ms
+2024/07/10 11:27:19 Start GetUsers controller
+2024/07/10 11:27:19 Start GetUsers service
+2024/07/10 11:27:19 Start GetUsers repository
+2024/07/10 11:27:19 GetUsers repository completed in 1.5376ms
+2024/07/10 11:27:19 GetUsers service completed in 1.6736ms
+2024/07/10 11:27:19 GetUsers controller completed in 1.6736ms
+2024/07/10 11:27:19 [2024/07/10 - 11:27:19] GET /users/ - Status: 200 - Latency: 1.6736ms
+2024/07/10 11:27:19 [2024/07/10 - 11:27:19] GET /users/ - Status: 200 - Latency: 1.6736ms
+2024/07/10 11:27:21 Start GetUsers controller
+2024/07/10 11:27:21 Start GetUsers service
+2024/07/10 11:27:21 Start GetUsers repository
+2024/07/10 11:27:21 GetUsers repository completed in 510.8µs
+2024/07/10 11:27:21 GetUsers service completed in 510.8µs
+2024/07/10 11:27:21 GetUsers controller completed in 1.04ms
+2024/07/10 11:27:21 [2024/07/10 - 11:27:21] GET /users/ - Status: 200 - Latency: 1.04ms
+2024/07/10 11:27:21 [2024/07/10 - 11:27:21] GET /users/ - Status: 200 - Latency: 1.04ms
+2024/07/10 11:27:26 Start GetUsers controller
+2024/07/10 11:27:26 Start GetUsers service
+2024/07/10 11:27:26 Start GetUsers repository
+2024/07/10 11:27:26 GetUsers repository completed in 584.6µs
+2024/07/10 11:27:26 GetUsers service completed in 1.0933ms
+2024/07/10 11:27:26 GetUsers controller completed in 1.0933ms
+2024/07/10 11:27:26 [2024/07/10 - 11:27:26] GET /users/ - Status: 200 - Latency: 1.0933ms
+2024/07/10 11:27:26 [2024/07/10 - 11:27:26] GET /users/ - Status: 200 - Latency: 1.0933ms
+2024/07/10 11:27:32 Start GetUser controller
+2024/07/10 11:27:32 Start GetUserByID service
+2024/07/10 11:27:32 Start GetByID repository
+2024/07/10 11:27:32 GetByID repository completed in 848.9µs
+2024/07/10 11:27:32 GetUserByID service completed in 848.9µs
+2024/07/10 11:27:32 GetUser controller completed in 1.3566ms
+2024/07/10 11:27:32 [2024/07/10 - 11:27:32] GET /users/21 - Status: 200 - Latency: 1.3566ms
+2024/07/10 11:27:32 [2024/07/10 - 11:27:32] GET /users/21 - Status: 200 - Latency: 1.3566ms
+2024/07/10 11:27:35 Start GetUser controller
+2024/07/10 11:27:35 Start GetUserByID service
+2024/07/10 11:27:35 Start GetByID repository
+2024/07/10 11:27:35 GetByID repository completed in 84.7µs
+2024/07/10 11:27:35 GetUserByID service completed in 589.9µs
+2024/07/10 11:27:35 GetUser controller completed in 589.9µs
+2024/07/10 11:27:35 [2024/07/10 - 11:27:35] GET /users/21 - Status: 200 - Latency: 589.9µs
+2024/07/10 11:27:35 [2024/07/10 - 11:27:35] GET /users/21 - Status: 200 - Latency: 589.9µs
+2024/07/10 11:27:37 Start GetUser controller
+2024/07/10 11:27:37 Start GetUserByID service
+2024/07/10 11:27:37 Start GetByID repository
+2024/07/10 11:27:37 GetByID repository completed in 508.5µs
+2024/07/10 11:27:37 GetUserByID service completed in 1.1931ms
+2024/07/10 11:27:37 GetUser controller completed in 1.1931ms
+2024/07/10 11:27:37 [2024/07/10 - 11:27:37] GET /users/21 - Status: 200 - Latency: 1.1931ms
+2024/07/10 11:27:37 [2024/07/10 - 11:27:37] GET /users/21 - Status: 200 - Latency: 1.1931ms
+2024/07/10 11:29:49 Starting server on :8000
+2024/07/10 11:29:57 Start GetUsers controller
+2024/07/10 11:29:57 Start GetUsers service
+2024/07/10 11:29:57 Start GetUsers repository
+2024/07/10 11:29:57 GetUsers repository completed in 788.2µs
+2024/07/10 11:29:57 GetUsers service completed in 877.3µs
+2024/07/10 11:29:57 GetUsers controller completed in 877.3µs
+2024/07/10 11:29:57 [2024/07/10 - 11:29:57] GET /users/ - Status: 200 - Latency: 877.3µs
+2024/07/10 11:29:57 [2024/07/10 - 11:29:57] GET /users/ - Status: 200 - Latency: 877.3µs
+2024/07/10 11:30:00 Start GetUsers controller
+2024/07/10 11:30:00 Start GetUsers service
+2024/07/10 11:30:00 Start GetUsers repository
+2024/07/10 11:30:00 GetUsers repository completed in 0s
+2024/07/10 11:30:00 GetUsers service completed in 509µs
+2024/07/10 11:30:00 GetUsers controller completed in 1.2521ms
+2024/07/10 11:30:00 [2024/07/10 - 11:30:00] GET /users/ - Status: 200 - Latency: 1.2521ms
+2024/07/10 11:30:00 [2024/07/10 - 11:30:00] GET /users/ - Status: 200 - Latency: 1.2521ms
+2024/07/10 11:30:02 Start GetUsers controller
+2024/07/10 11:30:02 Start GetUsers service
+2024/07/10 11:30:02 Start GetUsers repository
+2024/07/10 11:30:02 GetUsers repository completed in 0s
+2024/07/10 11:30:02 GetUsers service completed in 344.6µs
+2024/07/10 11:30:02 GetUsers controller completed in 849.5µs
+2024/07/10 11:30:02 [2024/07/10 - 11:30:02] GET /users/ - Status: 200 - Latency: 849.5µs
+2024/07/10 11:30:02 [2024/07/10 - 11:30:02] GET /users/ - Status: 200 - Latency: 849.5µs
+2024/07/10 11:30:04 Start GetUsers controller
+2024/07/10 11:30:04 Start GetUsers service
+2024/07/10 11:30:04 Start GetUsers repository
+2024/07/10 11:30:04 GetUsers repository completed in 0s
+2024/07/10 11:30:04 GetUsers service completed in 0s
+2024/07/10 11:30:04 GetUsers controller completed in 544.7µs
+2024/07/10 11:30:04 [2024/07/10 - 11:30:04] GET /users/ - Status: 200 - Latency: 544.7µs
+2024/07/10 11:30:04 [2024/07/10 - 11:30:04] GET /users/ - Status: 200 - Latency: 544.7µs
+2024/07/10 13:16:57 Starting server on :8000
+2024/07/10 13:19:14 Start GetUsers controller
+2024/07/10 13:19:14 Start GetUsers service
+2024/07/10 13:19:14 Start GetUsers repository
+2024/07/10 13:19:14 GetUsers repository completed in 624.9µs
+2024/07/10 13:19:14 GetUsers service completed in 624.9µs
+2024/07/10 13:19:14 GetUsers controller completed in 1.4542ms
+2024/07/10 13:19:14 [2024/07/10 - 13:19:14] GET /users/ - Status: 200 - Latency: 1.4542ms
+2024/07/10 13:19:14 [2024/07/10 - 13:19:14] GET /users/ - Status: 200 - Latency: 1.4542ms
+2024/07/10 13:19:18 Start GetUsers controller
+2024/07/10 13:19:18 Start GetUsers service
+2024/07/10 13:19:18 Start GetUsers repository
+2024/07/10 13:19:18 GetUsers repository completed in 0s
+2024/07/10 13:19:18 GetUsers service completed in 0s
+2024/07/10 13:19:18 GetUsers controller completed in 576.4µs
+2024/07/10 13:19:18 [2024/07/10 - 13:19:18] GET /users/ - Status: 200 - Latency: 576.4µs
+2024/07/10 13:19:18 [2024/07/10 - 13:19:18] GET /users/ - Status: 200 - Latency: 576.4µs
+2024/07/10 13:19:20 Start GetUsers controller
+2024/07/10 13:19:20 Start GetUsers service
+2024/07/10 13:19:20 Start GetUsers repository
+2024/07/10 13:19:20 GetUsers repository completed in 622.6µs
+2024/07/10 13:19:20 GetUsers service completed in 622.6µs
+2024/07/10 13:19:20 GetUsers controller completed in 622.6µs
+2024/07/10 13:19:20 [2024/07/10 - 13:19:20] GET /users/ - Status: 200 - Latency: 622.6µs
+2024/07/10 13:19:20 [2024/07/10 - 13:19:20] GET /users/ - Status: 200 - Latency: 622.6µs
+2024/07/10 13:19:22 Start GetUsers controller
+2024/07/10 13:19:22 Start GetUsers service
+2024/07/10 13:19:22 Start GetUsers repository
+2024/07/10 13:19:22 GetUsers repository completed in 503.3µs
+2024/07/10 13:19:22 GetUsers service completed in 503.3µs
+2024/07/10 13:19:22 GetUsers controller completed in 928.4µs
+2024/07/10 13:19:22 [2024/07/10 - 13:19:22] GET /users/ - Status: 200 - Latency: 928.4µs
+2024/07/10 13:19:22 [2024/07/10 - 13:19:22] GET /users/ - Status: 200 - Latency: 928.4µs
+2024/07/10 13:19:23 Start GetUsers controller
+2024/07/10 13:19:23 Start GetUsers service
+2024/07/10 13:19:23 Start GetUsers repository
+2024/07/10 13:19:23 GetUsers repository completed in 0s
+2024/07/10 13:19:23 GetUsers service completed in 563.8µs
+2024/07/10 13:19:23 GetUsers controller completed in 563.8µs
+2024/07/10 13:19:23 [2024/07/10 - 13:19:23] GET /users/ - Status: 200 - Latency: 563.8µs
+2024/07/10 13:19:23 [2024/07/10 - 13:19:23] GET /users/ - Status: 200 - Latency: 563.8µs
+2024/07/10 13:19:24 Start GetUsers controller
+2024/07/10 13:19:24 Start GetUsers service
+2024/07/10 13:19:24 Start GetUsers repository
+2024/07/10 13:19:24 GetUsers repository completed in 0s
+2024/07/10 13:19:24 GetUsers service completed in 0s
+2024/07/10 13:19:24 GetUsers controller completed in 499.1µs
+2024/07/10 13:19:24 [2024/07/10 - 13:19:24] GET /users/ - Status: 200 - Latency: 499.1µs
+2024/07/10 13:19:24 [2024/07/10 - 13:19:24] GET /users/ - Status: 200 - Latency: 499.1µs
+2024/07/10 13:19:34 Start GetUser controller
+2024/07/10 13:19:34 Start GetUserByID service
+2024/07/10 13:19:34 Start GetByID repository
+2024/07/10 13:19:34 GetByID repository completed in 508.8µs
+2024/07/10 13:19:34 GetUserByID service completed in 926.2µs
+2024/07/10 13:19:34 GetUser controller completed in 1.5062ms
+2024/07/10 13:19:34 [2024/07/10 - 13:19:34] GET /users/21 - Status: 200 - Latency: 1.5062ms
+2024/07/10 13:19:34 [2024/07/10 - 13:19:34] GET /users/21 - Status: 200 - Latency: 1.5062ms
+2024/07/10 13:19:35 Start GetUser controller
+2024/07/10 13:19:35 Start GetUserByID service
+2024/07/10 13:19:35 Start GetByID repository
+2024/07/10 13:19:35 GetByID repository completed in 1.2893ms
+2024/07/10 13:19:35 GetUserByID service completed in 1.3438ms
+2024/07/10 13:19:35 GetUser controller completed in 1.3438ms
+2024/07/10 13:19:35 [2024/07/10 - 13:19:35] GET /users/21 - Status: 200 - Latency: 1.3438ms
+2024/07/10 13:19:35 [2024/07/10 - 13:19:35] GET /users/21 - Status: 200 - Latency: 1.3438ms
+2024/07/10 13:19:36 Start GetUser controller
+2024/07/10 13:19:36 Start GetUserByID service
+2024/07/10 13:19:36 Start GetByID repository
+2024/07/10 13:19:36 GetByID repository completed in 0s
+2024/07/10 13:19:36 GetUserByID service completed in 508.3µs
+2024/07/10 13:19:36 GetUser controller completed in 1.2179ms
+2024/07/10 13:19:36 [2024/07/10 - 13:19:36] GET /users/21 - Status: 200 - Latency: 1.2179ms
+2024/07/10 13:19:36 [2024/07/10 - 13:19:36] GET /users/21 - Status: 200 - Latency: 1.2179ms
+2024/07/10 13:19:36 Start GetUser controller
+2024/07/10 13:19:36 Start GetUserByID service
+2024/07/10 13:19:36 Start GetByID repository
+2024/07/10 13:19:36 GetByID repository completed in 1.4511ms
+2024/07/10 13:19:36 GetUserByID service completed in 1.4511ms
+2024/07/10 13:19:36 GetUser controller completed in 1.4511ms
+2024/07/10 13:19:36 [2024/07/10 - 13:19:36] GET /users/21 - Status: 200 - Latency: 1.4511ms
+2024/07/10 13:19:36 [2024/07/10 - 13:19:36] GET /users/21 - Status: 200 - Latency: 1.4511ms
+2024/07/10 13:19:39 Start GetUser controller
+2024/07/10 13:19:39 Start GetUserByID service
+2024/07/10 13:19:39 Start GetByID repository
+2024/07/10 13:19:39 GetByID repository completed in 0s
+2024/07/10 13:19:39 GetUserByID service completed in 917.2µs
+2024/07/10 13:19:39 GetUser controller completed in 917.2µs
+2024/07/10 13:19:39 [2024/07/10 - 13:19:39] GET /users/21 - Status: 200 - Latency: 917.2µs
+2024/07/10 13:19:39 [2024/07/10 - 13:19:39] GET /users/21 - Status: 200 - Latency: 917.2µs
+2024/07/11 00:01:58 Starting server on :8000
+2024/07/11 00:01:58 Error starting server: listen tcp :8000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2024/07/11 00:03:12 Starting server on :8080
+2024/07/11 00:13:43 Starting server on :8080
+2024/07/11 00:14:30 Starting server on :8080
+2024/07/11 00:16:06 Starting server on :8080
+2024/07/11 00:28:24 Starting server on :8080
+2024/07/11 00:30:05 Starting server on :8000
+2024/07/11 00:30:05 Error starting server: listen tcp :8000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2024/07/11 00:30:21 Starting server on :8080
+2024/07/11 00:30:41 Start GetUser controller
+2024/07/11 00:30:41 Start GetUserByID service
+2024/07/11 00:30:41 Start GetByID repository
+2024/07/11 00:30:41 GetByID repository completed in 574µs
+2024/07/11 00:30:41 GetUserByID service completed in 574µs
+2024/07/11 00:30:41 GetUser controller completed in 774.8µs
+2024/07/11 00:30:41 [2024/07/11 - 00:30:41] GET /users/210 - Status: 200 - Latency: 774.8µs
+2024/07/11 00:30:41 [2024/07/11 - 00:30:41] GET /users/210 - Status: 200 - Latency: 774.8µs
+2024/07/11 09:07:02 Starting server on :8080
+2024/07/11 09:55:44 Starting server on :8080
+2024/07/11 09:55:46 Start GetUsers controller
+2024/07/11 09:55:46 Start GetUsers service
+2024/07/11 09:55:46 Start GetUsers repository
+2024/07/11 09:55:47 GetUsers repository completed in 87.9995ms
+2024/07/11 09:55:47 GetUsers service completed in 87.9995ms
+2024/07/11 09:55:47 [2024/07/11 - 09:55:46] GET /users/ - Status: 200 - Latency: 91.9952ms
+2024/07/11 09:55:47 [2024/07/11 - 09:55:46] GET /users/ - Status: 200 - Latency: 91.9952ms
+2024/07/11 09:55:52 Start GetUsers controller
+2024/07/11 09:55:52 Start GetUsers service
+2024/07/11 09:55:52 Start GetUsers repository
+2024/07/11 09:55:52 GetUsers repository completed in 5.905ms
+2024/07/11 09:55:52 GetUsers service completed in 5.905ms
+2024/07/11 09:55:52 [2024/07/11 - 09:55:52] GET /users/ - Status: 200 - Latency: 9.4621ms
+2024/07/11 09:55:52 [2024/07/11 - 09:55:52] GET /users/ - Status: 200 - Latency: 9.9764ms
+2024/07/11 09:55:55 Start GetUsers controller
+2024/07/11 09:55:55 Start GetUsers service
+2024/07/11 09:55:55 Start GetUsers repository
+2024/07/11 09:55:55 GetUsers repository completed in 5.2302ms
+2024/07/11 09:55:55 GetUsers service completed in 5.2302ms
+2024/07/11 09:55:55 [2024/07/11 - 09:55:55] GET /users/ - Status: 200 - Latency: 7.4589ms
+2024/07/11 09:55:55 [2024/07/11 - 09:55:55] GET /users/ - Status: 200 - Latency: 7.4589ms
+2024/07/11 09:55:56 Start GetUsers controller
+2024/07/11 09:55:56 Start GetUsers service
+2024/07/11 09:55:56 Start GetUsers repository
+2024/07/11 09:55:56 GetUsers repository completed in 7.4019ms
+2024/07/11 09:55:56 GetUsers service completed in 7.4019ms
+2024/07/11 09:55:56 [2024/07/11 - 09:55:56] GET /users/ - Status: 200 - Latency: 9.8297ms
+2024/07/11 09:55:56 [2024/07/11 - 09:55:56] GET /users/ - Status: 200 - Latency: 9.8297ms
+2024/07/11 09:55:57 Start GetUsers controller
+2024/07/11 09:55:57 Start GetUsers service
+2024/07/11 09:55:57 Start GetUsers repository
+2024/07/11 09:55:57 GetUsers repository completed in 6.4712ms
+2024/07/11 09:55:57 GetUsers service completed in 6.8037ms
+2024/07/11 09:55:57 [2024/07/11 - 09:55:57] GET /users/ - Status: 200 - Latency: 9.061ms
+2024/07/11 09:55:57 [2024/07/11 - 09:55:57] GET /users/ - Status: 200 - Latency: 9.061ms
+2024/07/11 09:55:58 Start GetUsers controller
+2024/07/11 09:55:58 Start GetUsers service
+2024/07/11 09:55:58 Start GetUsers repository
+2024/07/11 09:55:58 GetUsers repository completed in 7.2819ms
+2024/07/11 09:55:58 GetUsers service completed in 8.4835ms
+2024/07/11 09:55:58 [2024/07/11 - 09:55:58] GET /users/ - Status: 200 - Latency: 11.6606ms
+2024/07/11 09:55:58 [2024/07/11 - 09:55:58] GET /users/ - Status: 200 - Latency: 11.6606ms
+2024/07/11 10:00:16 Start GetUser controller
+2024/07/11 10:00:16 Start GetUserByID service
+2024/07/11 10:00:16 Start GetByID repository
+2024/07/11 10:00:16 GetByID repository completed in 724.1µs
+2024/07/11 10:00:16 GetUserByID service completed in 724.1µs
+2024/07/11 10:00:16 [2024/07/11 - 10:00:16] GET /users/210 - Status: 200 - Latency: 1.0337ms
+2024/07/11 10:00:16 [2024/07/11 - 10:00:16] GET /users/210 - Status: 200 - Latency: 1.0337ms
+2024/07/11 10:00:18 Start GetUser controller
+2024/07/11 10:00:18 Start GetUserByID service
+2024/07/11 10:00:18 Start GetByID repository
+2024/07/11 10:00:18 GetByID repository completed in 506µs
+2024/07/11 10:00:18 GetUserByID service completed in 506µs
+2024/07/11 10:00:18 [2024/07/11 - 10:00:18] GET /users/210 - Status: 200 - Latency: 869µs
+2024/07/11 10:00:18 [2024/07/11 - 10:00:18] GET /users/210 - Status: 200 - Latency: 869µs
+2024/07/11 10:00:18 Start GetUser controller
+2024/07/11 10:00:18 Start GetUserByID service
+2024/07/11 10:00:18 Start GetByID repository
+2024/07/11 10:00:18 GetByID repository completed in 435.8µs
+2024/07/11 10:00:18 GetUserByID service completed in 435.8µs
+2024/07/11 10:00:18 [2024/07/11 - 10:00:18] GET /users/210 - Status: 200 - Latency: 435.8µs
+2024/07/11 10:00:18 [2024/07/11 - 10:00:18] GET /users/210 - Status: 200 - Latency: 435.8µs
+2024/07/11 10:00:19 Start GetUser controller
+2024/07/11 10:00:19 Start GetUserByID service
+2024/07/11 10:00:19 Start GetByID repository
+2024/07/11 10:00:19 GetByID repository completed in 512.7µs
+2024/07/11 10:00:19 GetUserByID service completed in 862.6µs
+2024/07/11 10:00:19 [2024/07/11 - 10:00:19] GET /users/210 - Status: 200 - Latency: 995.6µs
+2024/07/11 10:00:19 [2024/07/11 - 10:00:19] GET /users/210 - Status: 200 - Latency: 995.6µs
+2024/07/11 10:00:20 Start GetUser controller
+2024/07/11 10:00:20 Start GetUserByID service
+2024/07/11 10:00:20 Start GetByID repository
+2024/07/11 10:00:20 GetByID repository completed in 511.9µs
+2024/07/11 10:00:20 GetUserByID service completed in 511.9µs
+2024/07/11 10:00:20 [2024/07/11 - 10:00:20] GET /users/210 - Status: 200 - Latency: 643.8µs
+2024/07/11 10:00:20 [2024/07/11 - 10:00:20] GET /users/210 - Status: 200 - Latency: 643.8µs
+2024/07/11 10:17:30 Starting server on :8080
+2024/07/11 10:17:36 Start GetUsers controller
+2024/07/11 10:17:36 Start GetUsers service
+2024/07/11 10:17:36 Start GetUsers repository
+2024/07/11 10:17:36 GetUsers repository completed in 11.3349ms
+2024/07/11 10:17:36 GetUsers service completed in 11.3349ms
+2024/07/11 10:17:36 [2024/07/11 - 10:17:36] GET /users/ - Status: 200 - Latency: 17.4183ms
+2024/07/11 10:17:36 [2024/07/11 - 10:17:36] GET /users/ - Status: 200 - Latency: 17.4183ms
+2024/07/11 10:17:39 Start GetUsers controller
+2024/07/11 10:17:39 Start GetUsers service
+2024/07/11 10:17:39 Start GetUsers repository
+2024/07/11 10:17:39 GetUsers repository completed in 5.85ms
+2024/07/11 10:17:39 GetUsers service completed in 5.85ms
+2024/07/11 10:17:39 [2024/07/11 - 10:17:39] GET /users/ - Status: 200 - Latency: 9.5547ms
+2024/07/11 10:17:39 [2024/07/11 - 10:17:39] GET /users/ - Status: 200 - Latency: 9.5547ms
+2024/07/11 10:17:40 Start GetUsers controller
+2024/07/11 10:17:40 Start GetUsers service
+2024/07/11 10:17:40 Start GetUsers repository
+2024/07/11 10:17:40 GetUsers repository completed in 5.0654ms
+2024/07/11 10:17:40 GetUsers service completed in 5.6596ms
+2024/07/11 10:17:40 [2024/07/11 - 10:17:40] GET /users/ - Status: 200 - Latency: 7.3872ms
+2024/07/11 10:17:40 [2024/07/11 - 10:17:40] GET /users/ - Status: 200 - Latency: 7.3872ms
+2024/07/11 10:17:42 Start GetUsers controller
+2024/07/11 10:17:42 Start GetUsers service
+2024/07/11 10:17:42 Start GetUsers repository
+2024/07/11 10:17:42 GetUsers repository completed in 7.5429ms
+2024/07/11 10:17:42 GetUsers service completed in 7.5429ms
+2024/07/11 10:17:42 [2024/07/11 - 10:17:42] GET /users/ - Status: 200 - Latency: 9.9709ms
+2024/07/11 10:17:42 [2024/07/11 - 10:17:42] GET /users/ - Status: 200 - Latency: 9.9709ms
+2024/07/11 10:17:43 Start GetUsers controller
+2024/07/11 10:17:43 Start GetUsers service
+2024/07/11 10:17:43 Start GetUsers repository
+2024/07/11 10:17:43 GetUsers repository completed in 6.4703ms
+2024/07/11 10:17:43 GetUsers service completed in 6.7055ms
+2024/07/11 10:17:43 [2024/07/11 - 10:17:43] GET /users/ - Status: 200 - Latency: 9.4228ms
+2024/07/11 10:17:43 [2024/07/11 - 10:17:43] GET /users/ - Status: 200 - Latency: 9.4228ms
+2024/07/11 10:17:51 Start GetUser controller
+2024/07/11 10:17:51 Start GetUserByID service
+2024/07/11 10:17:51 Start GetByID repository
+2024/07/11 10:17:51 GetByID repository completed in 1.5477ms
+2024/07/11 10:17:51 GetUserByID service completed in 1.5477ms
+2024/07/11 10:17:51 [2024/07/11 - 10:17:51] GET /users/210 - Status: 200 - Latency: 1.5477ms
+2024/07/11 10:17:51 [2024/07/11 - 10:17:51] GET /users/210 - Status: 200 - Latency: 1.5477ms
+2024/07/11 10:17:52 Start GetUser controller
+2024/07/11 10:17:52 Start GetUserByID service
+2024/07/11 10:17:52 Start GetByID repository
+2024/07/11 10:17:52 GetByID repository completed in 618µs
+2024/07/11 10:17:52 GetUserByID service completed in 1.1236ms
+2024/07/11 10:17:52 [2024/07/11 - 10:17:52] GET /users/210 - Status: 200 - Latency: 1.1236ms
+2024/07/11 10:17:52 [2024/07/11 - 10:17:52] GET /users/210 - Status: 200 - Latency: 1.1236ms
+2024/07/11 10:17:53 Start GetUser controller
+2024/07/11 10:17:53 Start GetUserByID service
+2024/07/11 10:17:53 Start GetByID repository
+2024/07/11 10:17:53 GetByID repository completed in 507µs
+2024/07/11 10:17:53 GetUserByID service completed in 750.6µs
+2024/07/11 10:17:53 [2024/07/11 - 10:17:53] GET /users/210 - Status: 200 - Latency: 1.508ms
+2024/07/11 10:17:53 [2024/07/11 - 10:17:53] GET /users/210 - Status: 200 - Latency: 1.508ms
+2024/07/11 10:17:59 Start CreateUser controller
+2024/07/11 10:17:59 Start CreateUser service
+2024/07/11 10:17:59 Start Create repository
+2024/07/11 10:17:59 Create repository completed in 7.3619ms
+2024/07/11 10:17:59 CreateUser service completed in 7.3619ms
+2024/07/11 10:17:59 [2024/07/11 - 10:17:59] POST /users/ - Status: 201 - Latency: 67.191ms
+2024/07/11 10:17:59 [2024/07/11 - 10:17:59] POST /users/ - Status: 201 - Latency: 67.191ms
+2024/07/11 10:18:02 Start CreateUser controller
+2024/07/11 10:18:02 Start CreateUser service
+2024/07/11 10:18:02 Start Create repository
+2024/07/11 10:18:02 Create repository completed in 3.021ms
+2024/07/11 10:18:02 CreateUser service completed in 3.021ms
+2024/07/11 10:18:02 [2024/07/11 - 10:18:02] POST /users/ - Status: 201 - Latency: 64.6634ms
+2024/07/11 10:18:02 [2024/07/11 - 10:18:02] POST /users/ - Status: 201 - Latency: 64.6634ms
+2024/07/11 10:18:02 Start CreateUser controller
+2024/07/11 10:18:03 Start CreateUser service
+2024/07/11 10:18:03 Start Create repository
+2024/07/11 10:18:03 Create repository completed in 5.5309ms
+2024/07/11 10:18:03 CreateUser service completed in 5.5309ms
+2024/07/11 10:18:03 [2024/07/11 - 10:18:02] POST /users/ - Status: 201 - Latency: 66.4193ms
+2024/07/11 10:18:03 [2024/07/11 - 10:18:02] POST /users/ - Status: 201 - Latency: 66.4193ms
+2024/07/11 10:18:03 Start CreateUser controller
+2024/07/11 10:18:03 Start CreateUser service
+2024/07/11 10:18:03 Start Create repository
+2024/07/11 10:18:03 Create repository completed in 3.464ms
+2024/07/11 10:18:03 CreateUser service completed in 3.464ms
+2024/07/11 10:18:03 [2024/07/11 - 10:18:03] POST /users/ - Status: 201 - Latency: 62.1862ms
+2024/07/11 10:18:03 [2024/07/11 - 10:18:03] POST /users/ - Status: 201 - Latency: 62.1862ms
+2024/07/11 10:18:22 Start UpdateUser controller
+2024/07/11 10:18:22 Start GetUserByID service
+2024/07/11 10:18:22 Start GetByID repository
+2024/07/11 10:18:22 GetByID repository completed in 504.9µs
+2024/07/11 10:18:22 GetUserByID service completed in 644.8µs
+2024/07/11 10:18:22 Start UpdateUser service
+2024/07/11 10:18:22 Start Update repository
+2024/07/11 10:18:22 Start GetByID repository
+2024/07/11 10:18:22 GetByID repository completed in 1.1351ms
+2024/07/11 10:18:22 Update repository completed in 6.2224ms
+2024/07/11 10:18:22 UpdateUser service completed in 6.2224ms
+2024/07/11 10:18:22 [2024/07/11 - 10:18:22] PUT /users/210 - Status: 200 - Latency: 7.4665ms
+2024/07/11 10:18:22 [2024/07/11 - 10:18:22] PUT /users/210 - Status: 200 - Latency: 7.4665ms
+2024/07/11 10:18:26 Start UpdateUser controller
+2024/07/11 10:18:26 Start GetUserByID service
+2024/07/11 10:18:26 Start GetByID repository
+2024/07/11 10:18:26 GetByID repository completed in 518.3µs
+2024/07/11 10:18:26 GetUserByID service completed in 780.5µs
+2024/07/11 10:18:26 Start UpdateUser service
+2024/07/11 10:18:26 Start Update repository
+2024/07/11 10:18:26 Start GetByID repository
+2024/07/11 10:18:26 GetByID repository completed in 720.4µs
+2024/07/11 10:18:26 Update repository completed in 720.4µs
+2024/07/11 10:18:26 UpdateUser service completed in 720.4µs
+2024/07/11 10:18:26 [2024/07/11 - 10:18:26] PUT /users/210 - Status: 200 - Latency: 2.1962ms
+2024/07/11 10:18:26 [2024/07/11 - 10:18:26] PUT /users/210 - Status: 200 - Latency: 2.1962ms
+2024/07/11 10:18:27 Start UpdateUser controller
+2024/07/11 10:18:27 Start GetUserByID service
+2024/07/11 10:18:27 Start GetByID repository
+2024/07/11 10:18:27 GetByID repository completed in 589.6µs
+2024/07/11 10:18:27 GetUserByID service completed in 589.6µs
+2024/07/11 10:18:27 Start UpdateUser service
+2024/07/11 10:18:27 Start Update repository
+2024/07/11 10:18:27 Start GetByID repository
+2024/07/11 10:18:27 GetByID repository completed in 816.3µs
+2024/07/11 10:18:27 Update repository completed in 1.5347ms
+2024/07/11 10:18:27 UpdateUser service completed in 1.5347ms
+2024/07/11 10:18:27 [2024/07/11 - 10:18:27] PUT /users/210 - Status: 200 - Latency: 2.7203ms
+2024/07/11 10:18:27 [2024/07/11 - 10:18:27] PUT /users/210 - Status: 200 - Latency: 2.7203ms
+2024/07/11 10:18:27 Start UpdateUser controller
+2024/07/11 10:18:27 Start GetUserByID service
+2024/07/11 10:18:27 Start GetByID repository
+2024/07/11 10:18:27 GetByID repository completed in 641.4µs
+2024/07/11 10:18:27 GetUserByID service completed in 727.8µs
+2024/07/11 10:18:27 Start UpdateUser service
+2024/07/11 10:18:27 Start Update repository
+2024/07/11 10:18:27 Start GetByID repository
+2024/07/11 10:18:27 GetByID repository completed in 505.3µs
+2024/07/11 10:18:27 Update repository completed in 505.3µs
+2024/07/11 10:18:27 UpdateUser service completed in 505.3µs
+2024/07/11 10:18:27 [2024/07/11 - 10:18:27] PUT /users/210 - Status: 200 - Latency: 2.2237ms
+2024/07/11 10:18:27 [2024/07/11 - 10:18:27] PUT /users/210 - Status: 200 - Latency: 2.2237ms
+2024/07/11 10:18:33 Start DeleteUser controller
+2024/07/11 10:18:33 Start GetUserByID service
+2024/07/11 10:18:33 Start GetByID repository
+2024/07/11 10:18:33 GetByID repository completed in 639.4µs
+2024/07/11 10:18:33 GetUserByID service completed in 639.4µs
+2024/07/11 10:18:33 Start DeleteUser service
+2024/07/11 10:18:33 Start Delete repository
+2024/07/11 10:18:33 Delete repository completed in 2.4552ms
+2024/07/11 10:18:33 DeleteUser service completed in 2.4552ms
+2024/07/11 10:18:33 [2024/07/11 - 10:18:33] DELETE /users/288 - Status: 200 - Latency: 3.0946ms
+2024/07/11 10:18:33 [2024/07/11 - 10:18:33] DELETE /users/288 - Status: 200 - Latency: 3.0946ms
+2024/07/11 10:18:36 Start DeleteUser controller
+2024/07/11 10:18:36 Start GetUserByID service
+2024/07/11 10:18:36 Start GetByID repository
+2024/07/11 10:18:36 GetByID repository no rows found
+2024/07/11 10:18:36 GetUserByID service completed in 509.4µs
+2024/07/11 10:18:36 [2024/07/11 - 10:18:36] DELETE /users/288 - Status: 404 - Latency: 688.4µs
+2024/07/11 10:18:36 [2024/07/11 - 10:18:36] DELETE /users/288 - Status: 404 - Latency: 688.4µs
+2024/07/11 10:19:01 Start DeleteUser controller
+2024/07/11 10:19:01 Start GetUserByID service
+2024/07/11 10:19:01 Start GetByID repository
+2024/07/11 10:19:01 GetByID repository completed in 508.1µs
+2024/07/11 10:19:01 GetUserByID service completed in 508.1µs
+2024/07/11 10:19:01 Start DeleteUser service
+2024/07/11 10:19:01 Start Delete repository
+2024/07/11 10:19:01 Delete repository completed in 2.5496ms
+2024/07/11 10:19:01 DeleteUser service completed in 2.8931ms
+2024/07/11 10:19:01 [2024/07/11 - 10:19:01] DELETE /users/28 - Status: 200 - Latency: 3.5725ms
+2024/07/11 10:19:01 [2024/07/11 - 10:19:01] DELETE /users/28 - Status: 200 - Latency: 3.5725ms
+2024/07/11 10:19:03 Start DeleteUser controller
+2024/07/11 10:19:03 Start GetUserByID service
+2024/07/11 10:19:03 Start GetByID repository
+2024/07/11 10:19:03 GetByID repository no rows found
+2024/07/11 10:19:03 GetUserByID service completed in 753.5µs
+2024/07/11 10:19:03 [2024/07/11 - 10:19:03] DELETE /users/28 - Status: 404 - Latency: 753.5µs
+2024/07/11 10:19:03 [2024/07/11 - 10:19:03] DELETE /users/28 - Status: 404 - Latency: 753.5µs
+2024/07/11 10:24:14 Starting server on :8080
+2024/07/11 10:25:02 Start DeleteUser controller
+2024/07/11 10:25:02 Start GetUserByID service
+2024/07/11 10:25:02 Start GetByID repository
+2024/07/11 10:25:02 GetByID repository no rows found
+2024/07/11 10:25:02 GetUserByID service completed in 800µs
+2024/07/11 10:25:02 [2024/07/11 - 10:25:02] DELETE /users/28 - Status: 404 - Latency: 800µs
+2024/07/11 10:25:02 [2024/07/11 - 10:25:02] DELETE /users/28 - Status: 404 - Latency: 800µs
+2024/07/11 10:25:08 Start DeleteUser controller
+2024/07/11 10:25:08 Start GetUserByID service
+2024/07/11 10:25:08 Start GetByID repository
+2024/07/11 10:25:08 GetByID repository completed in 505.3µs
+2024/07/11 10:25:08 GetUserByID service completed in 690.5µs
+2024/07/11 10:25:08 Start DeleteUser service
+2024/07/11 10:25:08 Start Delete repository
+2024/07/11 10:25:08 Delete repository completed in 2.5171ms
+2024/07/11 10:25:08 DeleteUser service completed in 2.6547ms
+2024/07/11 10:25:08 [2024/07/11 - 10:25:08] DELETE /users/29 - Status: 200 - Latency: 3.7583ms
+2024/07/11 10:25:08 [2024/07/11 - 10:25:08] DELETE /users/29 - Status: 200 - Latency: 3.7583ms
+2024/07/11 10:25:14 Start DeleteUser controller
+2024/07/11 10:25:14 Start GetUserByID service
+2024/07/11 10:25:14 Start GetByID repository
+2024/07/11 10:25:14 GetByID repository no rows found
+2024/07/11 10:25:14 GetUserByID service completed in 1.1658ms
+2024/07/11 10:25:14 [2024/07/11 - 10:25:14] DELETE /users/29 - Status: 404 - Latency: 1.1658ms
+2024/07/11 10:25:14 [2024/07/11 - 10:25:14] DELETE /users/29 - Status: 404 - Latency: 1.1658ms
+2024/07/11 10:25:18 Start DeleteUser controller
+2024/07/11 10:25:18 Start GetUserByID service
+2024/07/11 10:25:18 Start GetByID repository
+2024/07/11 10:25:18 GetByID repository completed in 524.1µs
+2024/07/11 10:25:18 GetUserByID service completed in 611.6µs
+2024/07/11 10:25:18 Start DeleteUser service
+2024/07/11 10:25:18 Start Delete repository
+2024/07/11 10:25:18 Delete repository completed in 2.5159ms
+2024/07/11 10:25:18 DeleteUser service completed in 2.5942ms
+2024/07/11 10:25:18 [2024/07/11 - 10:25:18] DELETE /users/30 - Status: 200 - Latency: 4.0261ms
+2024/07/11 10:25:18 [2024/07/11 - 10:25:18] DELETE /users/30 - Status: 200 - Latency: 4.0261ms
+2024/07/11 10:25:20 Start DeleteUser controller
+2024/07/11 10:25:20 Start GetUserByID service
+2024/07/11 10:25:20 Start GetByID repository
+2024/07/11 10:25:20 GetByID repository no rows found
+2024/07/11 10:25:20 GetUserByID service completed in 573.9µs
+2024/07/11 10:25:20 [2024/07/11 - 10:25:20] DELETE /users/30 - Status: 404 - Latency: 1.1548ms
+2024/07/11 10:25:20 [2024/07/11 - 10:25:20] DELETE /users/30 - Status: 404 - Latency: 1.1548ms
+2024/07/11 10:57:29 Starting server on :8080
+2024/07/11 11:05:07 Starting server on :8080
+2024/07/11 11:05:15 Start DeleteUser controller
+2024/07/11 11:05:15 Start GetUserByID service
+2024/07/11 11:05:15 Start GetByID repository
+2024/07/11 11:05:15 GetByID repository no rows found
+2024/07/11 11:05:15 GetUserByID service completed in 1.5524ms
+2024/07/11 11:05:15 [2024/07/11 - 11:05:15] DELETE /users/30 - Status: 404 - Latency: 1.5524ms
+2024/07/11 11:05:15 [2024/07/11 - 11:05:15] DELETE /users/30 - Status: 404 - Latency: 1.5524ms
+2024/07/11 11:05:21 Start GetUsers controller
+2024/07/11 11:05:21 Start GetUsers service
+2024/07/11 11:05:21 Start GetUsers repository
+2024/07/11 11:05:21 GetUsers repository completed in 0s
+2024/07/11 11:05:21 GetUsers service completed in 643.8µs
+2024/07/11 11:05:21 [2024/07/11 - 11:05:21] GET /users/ - Status: 200 - Latency: 643.8µs
+2024/07/11 11:05:21 [2024/07/11 - 11:05:21] GET /users/ - Status: 200 - Latency: 1.1495ms
+2024/07/11 11:05:35 Starting server on :8080
+2024/07/11 11:05:37 Start GetUsers controller
+2024/07/11 11:05:37 Start GetUsers service
+2024/07/11 11:05:37 Start GetUsers repository
+2024/07/11 11:05:37 GetUsers repository query error: Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT ? OFFSET ?' at line 1
+2024/07/11 11:05:37 GetUsers service error: Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT ? OFFSET ?' at line 1
+2024/07/11 11:05:37 [2024/07/11 - 11:05:37] GET /users/ - Status: 500 - Latency: 331µs
+2024/07/11 11:05:37 [2024/07/11 - 11:05:37] GET /users/ - Status: 500 - Latency: 331µs
+2024/07/11 11:06:44 Starting server on :8080
+2024/07/11 11:06:52 Start GetUsers controller
+2024/07/11 11:06:52 Start GetUsers service
+2024/07/11 11:06:52 Start GetUsers repository
+2024/07/11 11:06:52 GetUsers repository query error: Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT ? OFFSET ?' at line 1
+2024/07/11 11:06:52 GetUsers service error: Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT ? OFFSET ?' at line 1
+2024/07/11 11:06:52 [2024/07/11 - 11:06:52] GET /users/ - Status: 500 - Latency: 501.4µs
+2024/07/11 11:06:52 [2024/07/11 - 11:06:52] GET /users/ - Status: 500 - Latency: 501.4µs
+2024/07/11 11:08:00 Starting server on :8080
+2024/07/11 11:08:06 Start GetUsers controller
+2024/07/11 11:08:06 Start GetUsers service
+2024/07/11 11:08:06 Start GetUsers repository
+2024/07/11 11:08:06 GetUsers repository completed in 0s
+2024/07/11 11:08:06 GetUsers service completed in 506.1µs
+2024/07/11 11:08:06 [2024/07/11 - 11:08:06] GET /users/ - Status: 200 - Latency: 1.2195ms
+2024/07/11 11:08:06 [2024/07/11 - 11:08:06] GET /users/ - Status: 200 - Latency: 1.2195ms
+2024/07/11 11:08:41 Starting server on :8080
+2024/07/11 11:08:44 Start GetUsers controller
+2024/07/11 11:08:44 Start GetUsers service
+2024/07/11 11:08:44 Start GetUsers repository
+2024/07/11 11:08:44 GetUsers repository completed in 508.4µs
+2024/07/11 11:08:44 GetUsers service completed in 631µs
+2024/07/11 11:08:44 [2024/07/11 - 11:08:44] GET /users/ - Status: 200 - Latency: 1.366ms
+2024/07/11 11:08:44 [2024/07/11 - 11:08:44] GET /users/ - Status: 200 - Latency: 1.366ms
+2024/07/11 11:10:24 Start GetUsers controller
+2024/07/11 11:10:24 Start GetUsers service
+2024/07/11 11:10:24 Start GetUsers repository
+2024/07/11 11:10:24 GetUsers repository completed in 629.3µs
+2024/07/11 11:10:24 GetUsers service completed in 629.3µs
+2024/07/11 11:10:24 [2024/07/11 - 11:10:24] GET /users/ - Status: 200 - Latency: 1.1573ms
+2024/07/11 11:10:24 [2024/07/11 - 11:10:24] GET /users/ - Status: 200 - Latency: 1.1573ms
+2024/07/11 11:12:09 Starting server on :8080
+2024/07/11 11:12:18 Start GetUsers controller
+2024/07/11 11:12:18 Start GetUsers service
+2024/07/11 11:12:18 Start GetUsers repository
+2024/07/11 11:12:18 GetUsers repository completed in 517.6µs
+2024/07/11 11:12:18 GetUsers service completed in 517.6µs
+2024/07/11 11:12:18 [2024/07/11 - 11:12:18] GET /users/ - Status: 200 - Latency: 1.532ms
+2024/07/11 11:12:18 [2024/07/11 - 11:12:18] GET /users/ - Status: 200 - Latency: 1.532ms
+2024/07/11 11:12:29 Start GetUsers controller
+2024/07/11 11:12:29 Start GetUsers service
+2024/07/11 11:12:29 Start GetUsers repository
+2024/07/11 11:12:29 GetUsers repository completed in 525.7µs
+2024/07/11 11:12:29 GetUsers service completed in 525.7µs
+2024/07/11 11:12:29 [2024/07/11 - 11:12:29] GET /users/ - Status: 200 - Latency: 865.1µs
+2024/07/11 11:12:29 [2024/07/11 - 11:12:29] GET /users/ - Status: 200 - Latency: 865.1µs
+2024/07/11 11:12:58 Start GetUsers controller
+2024/07/11 11:12:58 Start GetUsers service
+2024/07/11 11:12:58 Start GetUsers repository
+2024/07/11 11:12:58 GetUsers repository completed in 506µs
+2024/07/11 11:12:58 GetUsers service completed in 506µs
+2024/07/11 11:12:58 [2024/07/11 - 11:12:58] GET /users/ - Status: 200 - Latency: 1.266ms
+2024/07/11 11:12:58 [2024/07/11 - 11:12:58] GET /users/ - Status: 200 - Latency: 1.266ms
+2024/07/11 11:30:33 Start GetUsers controller
+2024/07/11 11:30:33 Start GetUsers service
+2024/07/11 11:30:33 Start GetUsers repository
+2024/07/11 11:30:33 GetUsers repository completed in 687.9µs
+2024/07/11 11:30:33 GetUsers service completed in 687.9µs
+2024/07/11 11:30:33 [2024/07/11 - 11:30:33] GET /users/ - Status: 200 - Latency: 1.2171ms
+2024/07/11 11:30:33 [2024/07/11 - 11:30:33] GET /users/ - Status: 200 - Latency: 1.2171ms
+2024/07/11 11:30:33 [2024/07/11 - 11:30:33] GET /favicon.ico - Status: 404 - Latency: 0s
+2024/07/11 12:33:45 Starting server on :8080
+2024/07/11 12:33:54 Start GetUsers controller
+2024/07/11 12:33:54 Start GetUsers service
+2024/07/11 12:33:54 Start GetUsers repository
+2024/07/11 12:33:54 GetUsers repository completed in 8.947ms
+2024/07/11 12:33:54 [2024/07/11 - 12:33:54] GET /users/ - Status: 500 - Latency: 10.1216ms
+2024/07/11 12:33:54 [2024/07/11 - 12:33:54] GET /users/ - Status: 500 - Latency: 10.1216ms
+2024/07/11 12:49:08 Starting server on :8080
+2024/07/11 12:49:25 Starting server on :8080
+2024/07/11 12:49:34 Start GetUsers controller
+2024/07/11 12:49:34 Start GetUsers service
+2024/07/11 12:49:34 Start GetUsers repository
+2024/07/11 12:49:34 GetUsers repository completed in 6.3545ms
+2024/07/11 12:49:34 [2024/07/11 - 12:49:34] GET /users/ - Status: 500 - Latency: 6.885ms
+2024/07/11 12:49:34 [2024/07/11 - 12:49:34] GET /users/ - Status: 500 - Latency: 6.885ms
+2024/07/11 12:51:12 Starting server on :8080
+2024/07/11 12:51:19 Start GetUsers controller
+2024/07/11 12:51:19 Start GetUsers service
+2024/07/11 12:51:19 Start GetUsers repository
+2024/07/11 12:51:19 GetUsers repository completed in 4.3847ms
+2024/07/11 12:51:19 [2024/07/11 - 12:51:19] GET /users/ - Status: 500 - Latency: 10.6822ms
+2024/07/11 12:51:19 [2024/07/11 - 12:51:19] GET /users/ - Status: 500 - Latency: 11.1949ms
+2024/07/11 13:07:22 Starting server on :8080
+2024/07/11 13:07:26 Start GetUsers controller
+2024/07/11 13:07:26 Start GetUsers service
+2024/07/11 13:07:26 Start GetUsers repository
+2024/07/11 13:07:26 GetUsers repository completed in 3.1799ms
+2024/07/11 13:07:26 GetUsers service completed in 3.5095ms
+2024/07/11 13:07:26 [2024/07/11 - 13:07:26] GET /users/ - Status: 200 - Latency: 3.5095ms
+2024/07/11 13:07:26 [2024/07/11 - 13:07:26] GET /users/ - Status: 200 - Latency: 3.5095ms
+2024/07/11 13:08:30 Starting server on :8080
+2024/07/11 13:08:32 Start GetUsers controller
+2024/07/11 13:08:32 Start GetUsers service
+2024/07/11 13:08:32 Start GetUsers repository
+2024/07/11 13:08:32 GetUsers repository completed in 7.9432ms
+2024/07/11 13:08:32 GetUsers service completed in 7.9432ms
+2024/07/11 13:08:32 [2024/07/11 - 13:08:32] GET /users/ - Status: 200 - Latency: 8.6267ms
+2024/07/11 13:08:32 [2024/07/11 - 13:08:32] GET /users/ - Status: 200 - Latency: 8.6267ms
+2024/07/11 13:08:38 Start GetUsers controller
+2024/07/11 13:08:38 Start GetUsers service
+2024/07/11 13:08:38 Start GetUsers repository
+2024/07/11 13:08:38 GetUsers repository completed in 7.7979ms
+2024/07/11 13:08:38 GetUsers service completed in 7.7979ms
+2024/07/11 13:08:38 [2024/07/11 - 13:08:38] GET /users/ - Status: 200 - Latency: 8.364ms
+2024/07/11 13:08:38 [2024/07/11 - 13:08:38] GET /users/ - Status: 200 - Latency: 8.364ms
+2024/07/11 13:10:13 Starting server on :8080
+2024/07/11 13:10:17 Start GetUsers controller
+2024/07/11 13:10:17 Start GetUsers service
+2024/07/11 13:10:17 Start GetUsers repository
+2024/07/11 13:10:17 GetUsers repository completed in 2.4294ms
+2024/07/11 13:10:17 GetUsers service completed in 2.4294ms
+2024/07/11 13:10:17 [2024/07/11 - 13:10:17] GET /users/ - Status: 200 - Latency: 3.2121ms
+2024/07/11 13:10:17 [2024/07/11 - 13:10:17] GET /users/ - Status: 200 - Latency: 3.2121ms
+2024/07/11 13:12:40 Starting server on :8080
+2024/07/11 13:12:43 Start GetUsers controller
+2024/07/11 13:12:43 Start GetUsers service
+2024/07/11 13:12:43 Start GetUsers repository
+2024/07/11 13:12:43 pageSize 10
+2024/07/11 13:12:43 offset 0
+2024/07/11 13:12:43 GetUsers repository completed in 2.5813ms
+2024/07/11 13:12:43 GetUsers service completed in 2.5813ms
+2024/07/11 13:12:43 [2024/07/11 - 13:12:43] GET /users/ - Status: 200 - Latency: 3.003ms
+2024/07/11 13:12:43 [2024/07/11 - 13:12:43] GET /users/ - Status: 200 - Latency: 3.003ms
+2024/07/11 13:13:17 Start GetUsers controller
+2024/07/11 13:13:17 Start GetUsers service
+2024/07/11 13:13:17 Start GetUsers repository
+2024/07/11 13:13:17 pageSize 10
+2024/07/11 13:13:17 offset 0
+2024/07/11 13:13:17 GetUsers repository completed in 2.1295ms
+2024/07/11 13:13:17 GetUsers service completed in 2.1295ms
+2024/07/11 13:13:17 [2024/07/11 - 13:13:17] GET /users/ - Status: 200 - Latency: 2.6659ms
+2024/07/11 13:13:17 [2024/07/11 - 13:13:17] GET /users/ - Status: 200 - Latency: 2.6659ms
+2024/07/11 13:14:39 Starting server on :8080
+2024/07/11 13:14:44 Start GetUsers controller
+2024/07/11 13:14:44 Start GetUsers service
+2024/07/11 13:14:44 Start GetUsers repository
+2024/07/11 13:14:44 pageSize 10
+2024/07/11 13:14:44 offset 0
+2024/07/11 13:14:44 GetUsers repository completed in 7.2954ms
+2024/07/11 13:14:44 GetUsers service completed in 7.2954ms
+2024/07/11 13:14:44 [2024/07/11 - 13:14:44] GET /users/ - Status: 200 - Latency: 8.0592ms
+2024/07/11 13:14:44 [2024/07/11 - 13:14:44] GET /users/ - Status: 200 - Latency: 8.5646ms
+2024/07/11 13:30:10 Starting server on :8080
+2024/07/11 13:30:18 Start GetUsers controller
+2024/07/11 13:30:18 Start GetUsers service
+2024/07/11 13:30:18 Start GetUsers repository
+2024/07/11 13:30:18 pageSize 10
+2024/07/11 13:30:18 offset 0
+2024/07/11 13:30:18 GetUsers repository completed in 2.5242ms
+2024/07/11 13:30:18 GetUsers service completed in 2.5242ms
+2024/07/11 13:30:18 [2024/07/11 - 13:30:18] GET /users/ - Status: 200 - Latency: 2.7343ms
+2024/07/11 13:30:18 [2024/07/11 - 13:30:18] GET /users/ - Status: 200 - Latency: 2.7343ms
+2024/07/11 13:30:51 Start GetUsers controller
+2024/07/11 13:30:51 Start GetUsers service
+2024/07/11 13:30:51 Start GetUsers repository
+2024/07/11 13:30:51 pageSize 100
+2024/07/11 13:30:51 offset 0
+2024/07/11 13:30:51 GetUsers repository completed in 2.8129ms
+2024/07/11 13:30:51 GetUsers service completed in 2.8129ms
+2024/07/11 13:30:51 [2024/07/11 - 13:30:51] GET /users/ - Status: 200 - Latency: 3.1335ms
+2024/07/11 13:30:51 [2024/07/11 - 13:30:51] GET /users/ - Status: 200 - Latency: 3.1335ms
+2024/07/11 13:31:39 Starting server on :8080
+2024/07/11 13:31:44 Start GetUsers controller
+2024/07/11 13:31:44 Start GetUsers service
+2024/07/11 13:31:44 Start GetUsers repository
+2024/07/11 13:31:44 GetUsers repository completed in 2.9462ms
+2024/07/11 13:31:44 GetUsers service completed in 2.9462ms
+2024/07/11 13:31:44 [2024/07/11 - 13:31:44] GET /users/ - Status: 200 - Latency: 3.6823ms
+2024/07/11 13:31:44 [2024/07/11 - 13:31:44] GET /users/ - Status: 200 - Latency: 3.6823ms
+2024/07/11 13:33:23 Starting server on :8080
+2024/07/11 13:35:30 Starting server on :8080
+2024/07/11 13:35:36 Start GetUsers controller
+2024/07/11 13:35:36 Start GetUsers service
+2024/07/11 13:35:36 Start GetUsers repository
+2024/07/11 13:35:36 GetUsers repository completed in 4.6963ms
+2024/07/11 13:35:36 GetUsers service completed in 4.6963ms
+2024/07/11 13:35:36 [2024/07/11 - 13:35:36] GET /users/ - Status: 200 - Latency: 5.6447ms
+2024/07/11 13:35:36 [2024/07/11 - 13:35:36] GET /users/ - Status: 200 - Latency: 5.6447ms
+2024/07/11 13:35:45 Start GetUsers controller
+2024/07/11 13:35:45 Start GetUsers service
+2024/07/11 13:35:45 Start GetUsers repository
+2024/07/11 13:35:45 GetUsers repository completed in 5.1148ms
+2024/07/11 13:35:45 GetUsers service completed in 5.1148ms
+2024/07/11 13:35:45 [2024/07/11 - 13:35:45] GET /users/ - Status: 200 - Latency: 5.4586ms
+2024/07/11 13:35:45 [2024/07/11 - 13:35:45] GET /users/ - Status: 200 - Latency: 5.4586ms
+2024/07/11 13:35:51 Start GetUsers controller
+2024/07/11 13:35:51 Start GetUsers service
+2024/07/11 13:35:51 Start GetUsers repository
+2024/07/11 13:35:51 GetUsers repository completed in 10.8135ms
+2024/07/11 13:35:51 GetUsers service completed in 10.8135ms
+2024/07/11 13:35:51 [2024/07/11 - 13:35:51] GET /users/ - Status: 200 - Latency: 14.0222ms
+2024/07/11 13:35:51 [2024/07/11 - 13:35:51] GET /users/ - Status: 200 - Latency: 14.0222ms
+2024/07/11 13:35:59 Start GetUsers controller
+2024/07/11 13:35:59 Start GetUsers service
+2024/07/11 13:35:59 Start GetUsers repository
+2024/07/11 13:35:59 GetUsers repository completed in 3.4509ms
+2024/07/11 13:35:59 GetUsers service completed in 3.4509ms
+2024/07/11 13:35:59 [2024/07/11 - 13:35:59] GET /users/ - Status: 200 - Latency: 4.1443ms
+2024/07/11 13:35:59 [2024/07/11 - 13:35:59] GET /users/ - Status: 200 - Latency: 4.1443ms
+2024/07/11 13:36:44 Starting server on :8080
+2024/07/11 13:36:53 Start GetUsers controller
+2024/07/11 13:36:53 Start GetUsers service
+2024/07/11 13:36:53 Start GetUsers repository
+2024/07/11 13:36:53 GetUsers repository completed in 2.6023ms
+2024/07/11 13:36:53 GetUsers service completed in 2.6023ms
+2024/07/11 13:36:53 [2024/07/11 - 13:36:53] GET /users/ - Status: 200 - Latency: 2.7694ms
+2024/07/11 13:36:53 [2024/07/11 - 13:36:53] GET /users/ - Status: 200 - Latency: 2.7694ms
+2024/07/11 13:39:35 Start GetUsers controller
+2024/07/11 13:39:35 Start GetUsers service
+2024/07/11 13:39:35 Start GetUsers repository
+2024/07/11 13:39:35 GetUsers repository completed in 2.0881ms
+2024/07/11 13:39:35 GetUsers service completed in 2.0881ms
+2024/07/11 13:39:35 [2024/07/11 - 13:39:35] GET /users/ - Status: 200 - Latency: 2.1471ms
+2024/07/11 13:39:35 [2024/07/11 - 13:39:35] GET /users/ - Status: 200 - Latency: 2.1471ms
+2024/07/11 13:39:42 Start GetUsers controller
+2024/07/11 13:39:42 Start GetUsers service
+2024/07/11 13:39:42 Start GetUsers repository
+2024/07/11 13:39:42 GetUsers repository count error: sql: no rows in result set
+2024/07/11 13:39:42 GetUsers service error: sql: no rows in result set
+2024/07/11 13:39:42 [2024/07/11 - 13:39:42] GET /users/ - Status: 500 - Latency: 5.7513ms
+2024/07/11 13:39:42 [2024/07/11 - 13:39:42] GET /users/ - Status: 500 - Latency: 5.7513ms
+2024/07/11 13:39:48 Start GetUsers controller
+2024/07/11 13:39:48 Start GetUsers service
+2024/07/11 13:39:48 Start GetUsers repository
+2024/07/11 13:39:48 GetUsers repository completed in 3.0834ms
+2024/07/11 13:39:48 GetUsers service completed in 3.5571ms
+2024/07/11 13:39:48 [2024/07/11 - 13:39:48] GET /users/ - Status: 200 - Latency: 3.5571ms
+2024/07/11 13:39:48 [2024/07/11 - 13:39:48] GET /users/ - Status: 200 - Latency: 3.5571ms
+2024/07/11 13:40:00 Start GetUsers controller
+2024/07/11 13:40:00 Start GetUsers service
+2024/07/11 13:40:00 Start GetUsers repository
+2024/07/11 13:40:00 GetUsers repository count error: sql: no rows in result set
+2024/07/11 13:40:00 GetUsers service error: sql: no rows in result set
+2024/07/11 13:40:00 [2024/07/11 - 13:40:00] GET /users/ - Status: 500 - Latency: 6.6722ms
+2024/07/11 13:40:00 [2024/07/11 - 13:40:00] GET /users/ - Status: 500 - Latency: 6.6722ms
+2024/07/11 13:44:06 Starting server on :8080
+2024/07/11 13:44:17 Start GetUsers controller
+2024/07/11 13:44:17 Start GetUsers service
+2024/07/11 13:44:17 Start GetUsers repository
+2024/07/11 13:44:17 GetUsers repository completed in 3.1798ms
+2024/07/11 13:44:17 GetUsers service completed in 3.1798ms
+2024/07/11 13:44:17 [2024/07/11 - 13:44:17] GET /users/ - Status: 200 - Latency: 3.964ms
+2024/07/11 13:44:17 [2024/07/11 - 13:44:17] GET /users/ - Status: 200 - Latency: 3.964ms
+2024/07/11 13:44:38 Start GetUsers controller
+2024/07/11 13:44:38 Start GetUsers service
+2024/07/11 13:44:38 Start GetUsers repository
+2024/07/11 13:44:38 GetUsers repository completed in 2.9506ms
+2024/07/11 13:44:38 GetUsers service completed in 2.9506ms
+2024/07/11 13:44:38 [2024/07/11 - 13:44:38] GET /users/ - Status: 200 - Latency: 3.1897ms
+2024/07/11 13:44:38 [2024/07/11 - 13:44:38] GET /users/ - Status: 200 - Latency: 3.1897ms
+2024/07/11 13:44:58 Start GetUsers controller
+2024/07/11 13:44:58 Start GetUsers service
+2024/07/11 13:44:58 Start GetUsers repository
+2024/07/11 13:44:58 GetUsers repository completed in 2.4481ms
+2024/07/11 13:44:58 GetUsers service completed in 2.4481ms
+2024/07/11 13:44:58 [2024/07/11 - 13:44:58] GET /users/ - Status: 200 - Latency: 3.4452ms
+2024/07/11 13:44:58 [2024/07/11 - 13:44:58] GET /users/ - Status: 200 - Latency: 3.4452ms
+2024/07/11 13:45:02 Start GetUsers controller
+2024/07/11 13:45:02 Start GetUsers service
+2024/07/11 13:45:02 Start GetUsers repository
+2024/07/11 13:45:02 GetUsers repository completed in 2.3402ms
+2024/07/11 13:45:02 GetUsers service completed in 2.7646ms
+2024/07/11 13:45:02 [2024/07/11 - 13:45:02] GET /users/ - Status: 200 - Latency: 2.7646ms
+2024/07/11 13:45:02 [2024/07/11 - 13:45:02] GET /users/ - Status: 200 - Latency: 2.7646ms
+2024/07/11 13:45:07 Start GetUsers controller
+2024/07/11 13:45:07 Start GetUsers service
+2024/07/11 13:45:07 Start GetUsers repository
+2024/07/11 13:45:07 GetUsers repository count error: sql: no rows in result set
+2024/07/11 13:45:07 GetUsers service error: sql: no rows in result set
+2024/07/11 13:45:07 [2024/07/11 - 13:45:07] GET /users/ - Status: 500 - Latency: 1.4031ms
+2024/07/11 13:45:07 [2024/07/11 - 13:45:07] GET /users/ - Status: 500 - Latency: 1.4031ms
+2024/07/11 13:45:15 Start GetUsers controller
+2024/07/11 13:45:15 Start GetUsers service
+2024/07/11 13:45:15 Start GetUsers repository
+2024/07/11 13:45:15 GetUsers repository completed in 2.6684ms
+2024/07/11 13:45:15 GetUsers service completed in 2.6684ms
+2024/07/11 13:45:15 [2024/07/11 - 13:45:15] GET /users/ - Status: 200 - Latency: 2.6684ms
+2024/07/11 13:45:15 [2024/07/11 - 13:45:15] GET /users/ - Status: 200 - Latency: 2.6684ms
+2024/07/11 13:47:14 Start GetUsers controller
+2024/07/11 13:47:14 Start GetUsers service
+2024/07/11 13:47:14 Start GetUsers repository
+2024/07/11 13:47:14 GetUsers repository count error: sql: no rows in result set
+2024/07/11 13:47:14 GetUsers service error: sql: no rows in result set
+2024/07/11 13:47:14 [2024/07/11 - 13:47:14] GET /users/ - Status: 500 - Latency: 1.1595ms
+2024/07/11 13:47:14 [2024/07/11 - 13:47:14] GET /users/ - Status: 500 - Latency: 1.1595ms
+2024/07/11 13:48:05 Starting server on :8080
+2024/07/11 13:48:09 Start GetUsers controller
+2024/07/11 13:48:09 Start GetUsers service
+2024/07/11 13:48:09 Start GetUsers repository
+2024/07/11 13:48:09 GetUsers service completed in 746.1µs
+2024/07/11 13:48:09 [2024/07/11 - 13:48:09] GET /users/ - Status: 200 - Latency: 746.1µs
+2024/07/11 13:48:09 [2024/07/11 - 13:48:09] GET /users/ - Status: 200 - Latency: 746.1µs
+2024/07/11 13:51:16 Starting server on :8080
+2024/07/11 13:51:34 Starting server on :8080
+2024/07/11 13:52:00 Starting server on :8080
+2024/07/11 13:52:09 Start GetUsers controller
+2024/07/11 13:52:09 Start GetUsers service
+2024/07/11 13:52:09 Start GetUsers repository
+2024/07/11 13:52:09 GetUsers repository completed in 2.0536ms
+2024/07/11 13:52:09 GetUsers service completed in 2.6471ms
+2024/07/11 13:52:09 [2024/07/11 - 13:52:09] GET /users/ - Status: 200 - Latency: 3.0767ms
+2024/07/11 13:52:09 [2024/07/11 - 13:52:09] GET /users/ - Status: 200 - Latency: 3.0767ms
+2024/07/11 13:52:15 Start GetUsers controller
+2024/07/11 13:52:15 Start GetUsers service
+2024/07/11 13:52:15 Start GetUsers repository
+2024/07/11 13:52:15 GetUsers repository completed in 3.6304ms
+2024/07/11 13:52:15 GetUsers service completed in 3.6304ms
+2024/07/11 13:52:15 [2024/07/11 - 13:52:15] GET /users/ - Status: 200 - Latency: 4.5593ms
+2024/07/11 13:52:15 [2024/07/11 - 13:52:15] GET /users/ - Status: 200 - Latency: 4.5593ms
+2024/07/11 13:52:15 [2024/07/11 - 13:52:15] GET /favicon.ico - Status: 404 - Latency: 0s
+2024/07/11 13:52:21 Start GetUsers controller
+2024/07/11 13:52:21 Start GetUsers service
+2024/07/11 13:52:21 Start GetUsers repository
+2024/07/11 13:52:21 GetUsers repository completed in 2.5134ms
+2024/07/11 13:52:21 GetUsers service completed in 2.7641ms
+2024/07/11 13:52:21 [2024/07/11 - 13:52:21] GET /users/ - Status: 200 - Latency: 2.907ms
+2024/07/11 13:52:21 [2024/07/11 - 13:52:21] GET /users/ - Status: 200 - Latency: 2.907ms
+2024/07/11 13:52:30 Start GetUsers controller
+2024/07/11 13:52:30 Start GetUsers service
+2024/07/11 13:52:30 Start GetUsers repository
+2024/07/11 13:52:30 GetUsers repository completed in 1.5167ms
+2024/07/11 13:52:30 GetUsers service completed in 2.0959ms
+2024/07/11 13:52:30 [2024/07/11 - 13:52:30] GET /users/ - Status: 200 - Latency: 2.6176ms
+2024/07/11 13:52:30 [2024/07/11 - 13:52:30] GET /users/ - Status: 200 - Latency: 2.6176ms
+2024/07/11 13:52:41 Start GetUsers controller
+2024/07/11 13:52:41 Start GetUsers service
+2024/07/11 13:52:41 Start GetUsers repository
+2024/07/11 13:52:41 GetUsers repository completed in 1.5973ms
+2024/07/11 13:52:41 GetUsers service completed in 1.8724ms
+2024/07/11 13:52:41 [2024/07/11 - 13:52:41] GET /users/ - Status: 200 - Latency: 2.0107ms
+2024/07/11 13:52:41 [2024/07/11 - 13:52:41] GET /users/ - Status: 200 - Latency: 2.0107ms
+2024/07/11 13:52:45 Start GetUsers controller
+2024/07/11 13:52:45 Start GetUsers service
+2024/07/11 13:52:45 Start GetUsers repository
+2024/07/11 13:52:45 GetUsers repository completed in 3.8804ms
+2024/07/11 13:52:45 GetUsers service completed in 3.8804ms
+2024/07/11 13:52:45 [2024/07/11 - 13:52:45] GET /users/ - Status: 200 - Latency: 4.7892ms
+2024/07/11 13:52:45 [2024/07/11 - 13:52:45] GET /users/ - Status: 200 - Latency: 4.7892ms
+2024/07/11 13:52:49 Start GetUsers controller
+2024/07/11 13:52:49 Start GetUsers service
+2024/07/11 13:52:49 Start GetUsers repository
+2024/07/11 13:52:49 GetUsers repository completed in 2.7058ms
+2024/07/11 13:52:49 GetUsers service completed in 2.7058ms
+2024/07/11 13:52:49 [2024/07/11 - 13:52:49] GET /users/ - Status: 200 - Latency: 2.7058ms
+2024/07/11 13:52:49 [2024/07/11 - 13:52:49] GET /users/ - Status: 200 - Latency: 2.7058ms
+2024/07/11 13:52:52 Start GetUsers controller
+2024/07/11 13:52:52 Start GetUsers service
+2024/07/11 13:52:52 Start GetUsers repository
+2024/07/11 13:52:52 GetUsers repository completed in 2.1241ms
+2024/07/11 13:52:52 GetUsers service completed in 2.2903ms
+2024/07/11 13:52:52 [2024/07/11 - 13:52:52] GET /users/ - Status: 200 - Latency: 3.1721ms
+2024/07/11 13:52:52 [2024/07/11 - 13:52:52] GET /users/ - Status: 200 - Latency: 3.1721ms
+2024/07/11 13:54:26 Starting server on :8080
+2024/07/11 13:54:41 Start GetUsers controller
+2024/07/11 13:54:41 Start GetUsers service
+2024/07/11 13:54:41 Start GetUsers repository
+2024/07/11 13:54:41 GetUsers repository completed in 13.4714ms
+2024/07/11 13:54:41 GetUsers service completed in 14.0716ms
+2024/07/11 13:54:41 [2024/07/11 - 13:54:41] GET /users/ - Status: 200 - Latency: 19.1698ms
+2024/07/11 13:54:41 [2024/07/11 - 13:54:41] GET /users/ - Status: 200 - Latency: 19.1698ms
+2024/07/11 13:54:41 [2024/07/11 - 13:54:41] GET /favicon.ico - Status: 404 - Latency: 0s
+2024/07/11 13:54:58 Starting server on :8080
+2024/07/11 13:55:00 Start GetUsers controller
+2024/07/11 13:55:00 Start GetUsers service
+2024/07/11 13:55:00 Start GetUsers repository
+2024/07/11 13:55:00 GetUsers repository completed in 2.2052ms
+2024/07/11 13:55:00 GetUsers service completed in 2.2052ms
+2024/07/11 13:55:00 [2024/07/11 - 13:55:00] GET /users/ - Status: 200 - Latency: 2.7021ms
+2024/07/11 13:55:00 [2024/07/11 - 13:55:00] GET /users/ - Status: 200 - Latency: 2.7021ms
+2024/07/11 13:55:00 [2024/07/11 - 13:55:00] GET /favicon.ico - Status: 404 - Latency: 0s
+2024/07/11 13:55:08 Start GetUsers controller
+2024/07/11 13:55:08 Start GetUsers service
+2024/07/11 13:55:08 Start GetUsers repository
+2024/07/11 13:55:08 GetUsers repository count error: sql: no rows in result set
+2024/07/11 13:55:08 GetUsers service error: sql: no rows in result set
+2024/07/11 13:55:08 [2024/07/11 - 13:55:08] GET /users/ - Status: 500 - Latency: 2.793ms
+2024/07/11 13:55:08 [2024/07/11 - 13:55:08] GET /users/ - Status: 500 - Latency: 2.793ms
+2024/07/11 13:55:12 Start GetUsers controller
+2024/07/11 13:55:12 Start GetUsers service
+2024/07/11 13:55:12 Start GetUsers repository
+2024/07/11 13:55:12 GetUsers repository count error: sql: no rows in result set
+2024/07/11 13:55:12 GetUsers service error: sql: no rows in result set
+2024/07/11 13:55:12 [2024/07/11 - 13:55:12] GET /users/ - Status: 500 - Latency: 3.9992ms
+2024/07/11 13:55:12 [2024/07/11 - 13:55:12] GET /users/ - Status: 500 - Latency: 3.9992ms
+2024/07/11 13:55:16 Start GetUsers controller
+2024/07/11 13:55:16 Start GetUsers service
+2024/07/11 13:55:16 Start GetUsers repository
+2024/07/11 13:55:16 GetUsers repository completed in 3.7796ms
+2024/07/11 13:55:16 GetUsers service completed in 3.7796ms
+2024/07/11 13:55:16 [2024/07/11 - 13:55:16] GET /users/ - Status: 200 - Latency: 4.1691ms
+2024/07/11 13:55:16 [2024/07/11 - 13:55:16] GET /users/ - Status: 200 - Latency: 4.1691ms
+2024/07/11 13:55:18 Start GetUsers controller
+2024/07/11 13:55:18 Start GetUsers service
+2024/07/11 13:55:18 Start GetUsers repository
+2024/07/11 13:55:18 GetUsers repository count error: sql: no rows in result set
+2024/07/11 13:55:18 GetUsers service error: sql: no rows in result set
+2024/07/11 13:55:18 [2024/07/11 - 13:55:18] GET /users/ - Status: 500 - Latency: 4.968ms
+2024/07/11 13:55:18 [2024/07/11 - 13:55:18] GET /users/ - Status: 500 - Latency: 4.968ms
+2024/07/11 13:55:25 Start GetUsers controller
+2024/07/11 13:55:25 Start GetUsers service
+2024/07/11 13:55:25 Start GetUsers repository
+2024/07/11 13:55:25 GetUsers repository completed in 2.0886ms
+2024/07/11 13:55:25 GetUsers service completed in 3.068ms
+2024/07/11 13:55:25 [2024/07/11 - 13:55:25] GET /users/ - Status: 200 - Latency: 3.068ms
+2024/07/11 13:55:25 [2024/07/11 - 13:55:25] GET /users/ - Status: 200 - Latency: 3.068ms
+2024/07/11 13:55:27 Start GetUsers controller
+2024/07/11 13:55:27 Start GetUsers service
+2024/07/11 13:55:27 Start GetUsers repository
+2024/07/11 13:55:27 GetUsers repository completed in 3.9577ms
+2024/07/11 13:55:27 GetUsers service completed in 3.9577ms
+2024/07/11 13:55:27 [2024/07/11 - 13:55:27] GET /users/ - Status: 200 - Latency: 3.9577ms
+2024/07/11 13:55:27 [2024/07/11 - 13:55:27] GET /users/ - Status: 200 - Latency: 3.9577ms
+2024/07/11 13:56:01 Start GetUsers controller
+2024/07/11 13:56:01 Start GetUsers service
+2024/07/11 13:56:01 Start GetUsers repository
+2024/07/11 13:56:01 GetUsers repository count error: sql: no rows in result set
+2024/07/11 13:56:01 GetUsers service error: sql: no rows in result set
+2024/07/11 13:56:01 [2024/07/11 - 13:56:01] GET /users/ - Status: 500 - Latency: 3.4018ms
+2024/07/11 13:56:01 [2024/07/11 - 13:56:01] GET /users/ - Status: 500 - Latency: 3.4018ms
+2024/07/11 13:58:03 Starting server on :8080
+2024/07/11 13:58:06 Start GetUsers controller
+2024/07/11 13:58:06 Start GetUsers service
+2024/07/11 13:58:06 Start GetUsers repository
+2024/07/11 13:58:06 GetUsers repository count error: sql: no rows in result set
+2024/07/11 13:58:06 GetUsers service error: sql: no rows in result set
+2024/07/11 13:58:06 [2024/07/11 - 13:58:06] GET /users/ - Status: 500 - Latency: 3.6536ms
+2024/07/11 13:58:06 [2024/07/11 - 13:58:06] GET /users/ - Status: 500 - Latency: 3.6536ms
+2024/07/11 13:58:06 [2024/07/11 - 13:58:06] GET /favicon.ico - Status: 404 - Latency: 0s
+2024/07/11 13:59:02 Start GetUsers controller
+2024/07/11 13:59:02 Start GetUsers service
+2024/07/11 13:59:02 Start GetUsers repository
+2024/07/11 13:59:02 GetUsers repository count error: sql: no rows in result set
+2024/07/11 13:59:02 GetUsers service error: sql: no rows in result set
+2024/07/11 13:59:02 [2024/07/11 - 13:59:02] GET /users/ - Status: 500 - Latency: 3.054ms
+2024/07/11 13:59:02 [2024/07/11 - 13:59:02] GET /users/ - Status: 500 - Latency: 3.054ms
+2024/07/11 13:59:33 Starting server on :8080
+2024/07/11 13:59:36 Start GetUsers controller
+2024/07/11 13:59:36 Start GetUsers service
+2024/07/11 13:59:36 Start GetUsers repository
+2024/07/11 13:59:36 GetUsers repository count error: sql: no rows in result set
+2024/07/11 13:59:36 GetUsers service error: sql: no rows in result set
+2024/07/11 13:59:36 [2024/07/11 - 13:59:36] GET /users/ - Status: 500 - Latency: 3.2353ms
+2024/07/11 13:59:36 [2024/07/11 - 13:59:36] GET /users/ - Status: 500 - Latency: 3.2353ms
+2024/07/11 13:59:36 [2024/07/11 - 13:59:36] GET /favicon.ico - Status: 404 - Latency: 0s
+2024/07/11 13:59:38 Start GetUsers controller
+2024/07/11 13:59:38 Start GetUsers service
+2024/07/11 13:59:38 Start GetUsers repository
+2024/07/11 13:59:38 GetUsers repository count error: sql: no rows in result set
+2024/07/11 13:59:38 GetUsers service error: sql: no rows in result set
+2024/07/11 13:59:38 [2024/07/11 - 13:59:38] GET /users/ - Status: 500 - Latency: 4.9019ms
+2024/07/11 13:59:38 [2024/07/11 - 13:59:38] GET /users/ - Status: 500 - Latency: 4.9019ms
+2024/07/11 13:59:38 [2024/07/11 - 13:59:38] GET /favicon.ico - Status: 404 - Latency: 0s
+2024/07/11 13:59:53 Start GetUsers controller
+2024/07/11 13:59:53 Start GetUsers service
+2024/07/11 13:59:53 Start GetUsers repository
+2024/07/11 13:59:53 GetUsers repository count error: sql: no rows in result set
+2024/07/11 13:59:53 GetUsers service error: sql: no rows in result set
+2024/07/11 13:59:53 [2024/07/11 - 13:59:53] GET /users/ - Status: 500 - Latency: 3.8713ms
+2024/07/11 13:59:53 [2024/07/11 - 13:59:53] GET /users/ - Status: 500 - Latency: 3.8713ms
+2024/07/11 13:59:57 Start GetUsers controller
+2024/07/11 13:59:57 Start GetUsers service
+2024/07/11 13:59:57 Start GetUsers repository
+2024/07/11 13:59:57 GetUsers repository completed in 14.6823ms
+2024/07/11 13:59:57 GetUsers service completed in 14.6823ms
+2024/07/11 13:59:57 [2024/07/11 - 13:59:57] GET /users/ - Status: 200 - Latency: 23.5222ms
+2024/07/11 13:59:57 [2024/07/11 - 13:59:57] GET /users/ - Status: 200 - Latency: 24.0344ms
+2024/07/11 14:00:05 Start GetUsers controller
+2024/07/11 14:00:05 [2024/07/11 - 14:00:05] GET /users/ - Status: 400 - Latency: 705.4µs
+2024/07/11 14:00:05 [2024/07/11 - 14:00:05] GET /users/ - Status: 400 - Latency: 705.4µs
+2024/07/11 14:00:09 Start GetUsers controller
+2024/07/11 14:00:09 Start GetUsers service
+2024/07/11 14:00:09 Start GetUsers repository
+2024/07/11 14:00:09 GetUsers repository count error: sql: no rows in result set
+2024/07/11 14:00:09 GetUsers service error: sql: no rows in result set
+2024/07/11 14:00:09 [2024/07/11 - 14:00:09] GET /users/ - Status: 500 - Latency: 4.6143ms
+2024/07/11 14:00:09 [2024/07/11 - 14:00:09] GET /users/ - Status: 500 - Latency: 4.6143ms
+2024/07/11 14:00:12 Start GetUsers controller
+2024/07/11 14:00:12 Start GetUsers service
+2024/07/11 14:00:12 Start GetUsers repository
+2024/07/11 14:00:12 GetUsers repository completed in 11.7873ms
+2024/07/11 14:00:12 GetUsers service completed in 12.7679ms
+2024/07/11 14:00:12 [2024/07/11 - 14:00:12] GET /users/ - Status: 200 - Latency: 16.5265ms
+2024/07/11 14:00:12 [2024/07/11 - 14:00:12] GET /users/ - Status: 200 - Latency: 16.5265ms
+2024/07/11 14:00:55 Start GetUsers controller
+2024/07/11 14:00:55 Start GetUsers service
+2024/07/11 14:00:55 Start GetUsers repository
+2024/07/11 14:00:55 GetUsers repository count error: sql: no rows in result set
+2024/07/11 14:00:55 GetUsers service error: sql: no rows in result set
+2024/07/11 14:00:55 [2024/07/11 - 14:00:55] GET /users/ - Status: 500 - Latency: 4.9319ms
+2024/07/11 14:00:55 [2024/07/11 - 14:00:55] GET /users/ - Status: 500 - Latency: 4.9319ms
+2024/07/11 14:00:59 Start GetUsers controller
+2024/07/11 14:00:59 Start GetUsers service
+2024/07/11 14:00:59 Start GetUsers repository
+2024/07/11 14:00:59 GetUsers repository completed in 10.7241ms
+2024/07/11 14:00:59 GetUsers service completed in 10.7241ms
+2024/07/11 14:00:59 [2024/07/11 - 14:00:59] GET /users/ - Status: 200 - Latency: 12.2946ms
+2024/07/11 14:00:59 [2024/07/11 - 14:00:59] GET /users/ - Status: 200 - Latency: 12.2946ms
+2024/07/11 14:01:46 Start GetUsers controller
+2024/07/11 14:01:46 Start GetUsers service
+2024/07/11 14:01:46 Start GetUsers repository
+2024/07/11 14:01:46 GetUsers repository completed in 3.3726ms
+2024/07/11 14:01:46 GetUsers service completed in 4.2058ms
+2024/07/11 14:01:46 [2024/07/11 - 14:01:46] GET /users/ - Status: 200 - Latency: 4.2058ms
+2024/07/11 14:01:46 [2024/07/11 - 14:01:46] GET /users/ - Status: 200 - Latency: 4.2058ms
+2024/07/11 14:04:58 Starting server on :8080
+2024/07/11 14:05:01 Start GetUsers controller
+2024/07/11 14:05:01 Start GetUsers service
+2024/07/11 14:05:01 Start GetUsers repository
+2024/07/11 14:05:01 GetUsers repository completed in 2.9739ms
+2024/07/11 14:05:01 GetUsers service completed in 3.1285ms
+2024/07/11 14:05:01 [2024/07/11 - 14:05:01] GET /users/ - Status: 200 - Latency: 4.1285ms
+2024/07/11 14:05:01 [2024/07/11 - 14:05:01] GET /users/ - Status: 200 - Latency: 4.1285ms
+2024/07/11 14:05:01 [2024/07/11 - 14:05:01] GET /favicon.ico - Status: 404 - Latency: 0s
+2024/07/11 14:05:05 Start GetUsers controller
+2024/07/11 14:05:05 Start GetUsers service
+2024/07/11 14:05:05 Start GetUsers repository
+2024/07/11 14:05:05 GetUsers repository completed in 5.9944ms
+2024/07/11 14:05:05 GetUsers service completed in 5.9944ms
+2024/07/11 14:05:05 [2024/07/11 - 14:05:05] GET /users/ - Status: 200 - Latency: 7.075ms
+2024/07/11 14:05:05 [2024/07/11 - 14:05:05] GET /users/ - Status: 200 - Latency: 7.075ms
+2024/07/11 14:05:09 Start GetUsers controller
+2024/07/11 14:05:09 Start GetUsers service
+2024/07/11 14:05:09 Start GetUsers repository
+2024/07/11 14:05:09 GetUsers service completed in 3.5755ms
+2024/07/11 14:05:09 [2024/07/11 - 14:05:09] GET /users/ - Status: 200 - Latency: 4.0388ms
+2024/07/11 14:05:09 [2024/07/11 - 14:05:09] GET /users/ - Status: 200 - Latency: 4.0388ms
+2024/07/11 14:05:14 Start GetUsers controller
+2024/07/11 14:05:14 Start GetUsers service
+2024/07/11 14:05:14 Start GetUsers repository
+2024/07/11 14:05:14 GetUsers service completed in 1.5353ms
+2024/07/11 14:05:14 [2024/07/11 - 14:05:14] GET /users/ - Status: 200 - Latency: 3.2687ms
+2024/07/11 14:05:14 [2024/07/11 - 14:05:14] GET /users/ - Status: 200 - Latency: 3.2687ms
+2024/07/11 14:05:20 Start GetUsers controller
+2024/07/11 14:05:20 Start GetUsers service
+2024/07/11 14:05:20 Start GetUsers repository
+2024/07/11 14:05:20 GetUsers repository completed in 11.9685ms
+2024/07/11 14:05:20 GetUsers service completed in 11.9685ms
+2024/07/11 14:05:20 [2024/07/11 - 14:05:20] GET /users/ - Status: 200 - Latency: 18.5597ms
+2024/07/11 14:05:20 [2024/07/11 - 14:05:20] GET /users/ - Status: 200 - Latency: 18.6755ms
+2024/07/11 14:05:25 Start GetUsers controller
+2024/07/11 14:05:25 Start GetUsers service
+2024/07/11 14:05:25 Start GetUsers repository
+2024/07/11 14:05:25 GetUsers repository completed in 3.5395ms
+2024/07/11 14:05:25 GetUsers service completed in 4.2078ms
+2024/07/11 14:05:25 [2024/07/11 - 14:05:25] GET /users/ - Status: 200 - Latency: 4.2078ms
+2024/07/11 14:05:25 [2024/07/11 - 14:05:25] GET /users/ - Status: 200 - Latency: 4.2078ms
+2024/07/11 14:05:31 Start GetUsers controller
+2024/07/11 14:05:31 Start GetUsers service
+2024/07/11 14:05:31 Start GetUsers repository
+2024/07/11 14:05:31 GetUsers service completed in 1.817ms
+2024/07/11 14:05:31 [2024/07/11 - 14:05:31] GET /users/ - Status: 200 - Latency: 1.817ms
+2024/07/11 14:05:31 [2024/07/11 - 14:05:31] GET /users/ - Status: 200 - Latency: 1.817ms
+2024/07/11 14:06:51 Starting server on :8080
+2024/07/11 14:06:53 Start GetUsers controller
+2024/07/11 14:06:53 Start GetUsers service
+2024/07/11 14:06:53 Start GetUsers repository
+2024/07/11 14:06:53 GetUsers service completed in 3.5186ms
+2024/07/11 14:06:53 [2024/07/11 - 14:06:53] GET /users/ - Status: 200 - Latency: 4.9112ms
+2024/07/11 14:06:53 [2024/07/11 - 14:06:53] GET /users/ - Status: 200 - Latency: 4.9112ms
+2024/07/11 14:06:53 [2024/07/11 - 14:06:53] GET /favicon.ico - Status: 404 - Latency: 0s
+2024/07/11 14:06:59 Start GetUsers controller
+2024/07/11 14:06:59 Start GetUsers service
+2024/07/11 14:06:59 Start GetUsers repository
+2024/07/11 14:06:59 GetUsers repository completed in 3.9898ms
+2024/07/11 14:06:59 GetUsers service completed in 4.4305ms
+2024/07/11 14:06:59 [2024/07/11 - 14:06:59] GET /users/ - Status: 200 - Latency: 4.4305ms
+2024/07/11 14:06:59 [2024/07/11 - 14:06:59] GET /users/ - Status: 200 - Latency: 4.4305ms
+2024/07/11 14:07:13 Start GetUsers controller
+2024/07/11 14:07:13 Start GetUsers service
+2024/07/11 14:07:13 Start GetUsers repository
+2024/07/11 14:07:13 GetUsers repository completed in 9.2221ms
+2024/07/11 14:07:13 GetUsers service completed in 9.2221ms
+2024/07/11 14:07:13 [2024/07/11 - 14:07:13] GET /users/ - Status: 200 - Latency: 14.412ms
+2024/07/11 14:07:13 [2024/07/11 - 14:07:13] GET /users/ - Status: 200 - Latency: 14.412ms
+2024/07/11 14:08:29 Starting server on :8080
+2024/07/11 14:08:32 Start GetUsers controller
+2024/07/11 14:08:32 Start GetUsers service
+2024/07/11 14:08:32 Start GetUsers repository
+2024/07/11 14:08:32 GetUsers repository completed in 12.3166ms
+2024/07/11 14:08:32 GetUsers service completed in 12.4476ms
+2024/07/11 14:08:32 [2024/07/11 - 14:08:32] GET /users/ - Status: 200 - Latency: 17.0945ms
+2024/07/11 14:08:32 [2024/07/11 - 14:08:32] GET /users/ - Status: 200 - Latency: 17.0945ms
+2024/07/11 14:08:32 [2024/07/11 - 14:08:32] GET /favicon.ico - Status: 404 - Latency: 0s
+2024/07/11 14:08:41 Start GetUsers controller
+2024/07/11 14:08:41 Start GetUsers service
+2024/07/11 14:08:41 Start GetUsers repository
+2024/07/11 14:08:41 GetUsers repository completed in 3.4538ms
+2024/07/11 14:08:41 GetUsers service completed in 3.9495ms
+2024/07/11 14:08:41 [2024/07/11 - 14:08:41] GET /users/ - Status: 200 - Latency: 4.1026ms
+2024/07/11 14:08:41 [2024/07/11 - 14:08:41] GET /users/ - Status: 200 - Latency: 4.1026ms
+2024/07/11 14:08:49 Start GetUsers controller
+2024/07/11 14:08:49 Start GetUsers service
+2024/07/11 14:08:49 Start GetUsers repository
+2024/07/11 14:08:49 GetUsers service completed in 2.5167ms
+2024/07/11 14:08:49 [2024/07/11 - 14:08:49] GET /users/ - Status: 200 - Latency: 4.0406ms
+2024/07/11 14:08:49 [2024/07/11 - 14:08:49] GET /users/ - Status: 200 - Latency: 4.0406ms
+2024/07/11 14:09:19 Start GetUsers controller
+2024/07/11 14:09:19 Start GetUsers service
+2024/07/11 14:09:19 Start GetUsers repository
+2024/07/11 14:09:19 GetUsers repository completed in 5.4335ms
+2024/07/11 14:09:19 GetUsers service completed in 6.3478ms
+2024/07/11 14:09:19 [2024/07/11 - 14:09:19] GET /users/ - Status: 200 - Latency: 7.4244ms
+2024/07/11 14:09:19 [2024/07/11 - 14:09:19] GET /users/ - Status: 200 - Latency: 7.4244ms
+2024/07/11 14:09:27 Start GetUsers controller
+2024/07/11 14:09:27 Start GetUsers service
+2024/07/11 14:09:27 Start GetUsers repository
+2024/07/11 14:09:27 GetUsers repository completed in 9.7143ms
+2024/07/11 14:09:27 GetUsers service completed in 10.6955ms
+2024/07/11 14:09:27 [2024/07/11 - 14:09:27] GET /users/ - Status: 200 - Latency: 14.4289ms
+2024/07/11 14:09:27 [2024/07/11 - 14:09:27] GET /users/ - Status: 200 - Latency: 14.9309ms
+2024/07/11 14:09:33 Start GetUsers controller
+2024/07/11 14:09:33 Start GetUsers service
+2024/07/11 14:09:33 Start GetUsers repository
+2024/07/11 14:09:33 GetUsers repository completed in 3.3618ms
+2024/07/11 14:09:33 GetUsers service completed in 3.3618ms
+2024/07/11 14:09:33 [2024/07/11 - 14:09:33] GET /users/ - Status: 200 - Latency: 4.2515ms
+2024/07/11 14:09:33 [2024/07/11 - 14:09:33] GET /users/ - Status: 200 - Latency: 4.2515ms
+2024/07/11 14:09:40 Start GetUsers controller
+2024/07/11 14:09:40 Start GetUsers service
+2024/07/11 14:09:40 Start GetUsers repository
+2024/07/11 14:09:40 GetUsers service completed in 1.6662ms
+2024/07/11 14:09:40 [2024/07/11 - 14:09:40] GET /users/ - Status: 200 - Latency: 2.2924ms
+2024/07/11 14:09:40 [2024/07/11 - 14:09:40] GET /users/ - Status: 200 - Latency: 2.2924ms
+2024/07/11 14:09:43 Start GetUsers controller
+2024/07/11 14:09:43 Start GetUsers service
+2024/07/11 14:09:43 Start GetUsers repository
+2024/07/11 14:09:43 GetUsers repository completed in 3.6785ms
+2024/07/11 14:09:43 GetUsers service completed in 4.4876ms
+2024/07/11 14:09:43 [2024/07/11 - 14:09:43] GET /users/ - Status: 200 - Latency: 5.0789ms
+2024/07/11 14:09:43 [2024/07/11 - 14:09:43] GET /users/ - Status: 200 - Latency: 5.0789ms
+2024/07/11 14:47:07 Starting server on :8080
+2024/07/11 14:51:24 Starting server on :8080
+2024/07/11 14:51:28 Start GetUsers controller
+2024/07/11 14:51:28 [2024/07/11 - 14:51:28] GET /users/ - Status: 200 - Latency: 2.8953ms
+2024/07/11 16:00:19 Starting server on :8080
+2024/07/11 17:24:29 Starting server on :8080
+2024/07/11 17:24:35 Start GetUsers controller
+2024/07/11 17:24:35 [2024/07/11 - 17:24:35] GET /users/ - Status: 200 - Latency: 7.9306ms
+2024/07/11 17:24:35 [2024/07/11 - 17:24:35] GET /users/ - Status: 200 - Latency: 7.9306ms
+2024/07/11 21:14:07 Starting server on :8080
+2024/07/11 21:14:42 Start GetUsers controller
+2024/07/11 21:14:42 [2024/07/11 - 21:14:42] GET /users/ - Status: 200 - Latency: 62.5698ms
+2024/07/11 21:14:42 [2024/07/11 - 21:14:42] GET /users/ - Status: 200 - Latency: 62.5698ms
+2024/07/12 09:42:47 Starting server on :8080
+2024/07/12 09:43:15 Start GetUsers controller
+2024/07/12 09:43:15 [2024/07/12 - 09:43:15] GET /users/ - Status: 200 - Latency: 54.8914ms
+2024/07/12 09:43:15 [2024/07/12 - 09:43:15] GET /users/ - Status: 200 - Latency: 54.8914ms
+2024/07/12 09:43:21 Start GetUsers controller
+2024/07/12 09:43:21 [2024/07/12 - 09:43:21] GET /users/ - Status: 200 - Latency: 2.6985ms
+2024/07/12 09:43:21 [2024/07/12 - 09:43:21] GET /users/ - Status: 200 - Latency: 2.6985ms
+2024/07/12 09:43:38 Start GetUser controller
+2024/07/12 09:43:38 [2024/07/12 - 09:43:38] GET /users/210 - Status: 200 - Latency: 1.1453ms
+2024/07/12 09:43:38 [2024/07/12 - 09:43:38] GET /users/210 - Status: 200 - Latency: 1.1453ms
+2024/07/12 09:43:39 Start GetUser controller
+2024/07/12 09:43:39 [2024/07/12 - 09:43:39] GET /users/210 - Status: 200 - Latency: 470.4µs
+2024/07/12 09:43:39 [2024/07/12 - 09:43:39] GET /users/210 - Status: 200 - Latency: 470.4µs
+2024/07/12 09:43:42 Start GetUser controller
+2024/07/12 09:43:42 [2024/07/12 - 09:43:42] GET /users/210 - Status: 200 - Latency: 981.5µs
+2024/07/12 09:43:42 [2024/07/12 - 09:43:42] GET /users/210 - Status: 200 - Latency: 981.5µs
+2024/07/12 09:43:43 Start GetUser controller
+2024/07/12 09:43:43 [2024/07/12 - 09:43:43] GET /users/210 - Status: 200 - Latency: 371.4µs
+2024/07/12 09:43:43 [2024/07/12 - 09:43:43] GET /users/210 - Status: 200 - Latency: 371.4µs
+2024/07/12 09:46:39 Starting server on :8080
+2024/07/12 09:46:43 Start GetUser controller
+2024/07/12 09:46:43 [2024/07/12 - 09:46:43] GET /users/210 - Status: 200 - Latency: 649.5µs
+2024/07/12 09:46:43 [2024/07/12 - 09:46:43] GET /users/210 - Status: 200 - Latency: 1.1539ms
+2024/07/12 09:46:45 Start GetUsers controller
+2024/07/12 09:46:45 [2024/07/12 - 09:46:45] GET /users/ - Status: 200 - Latency: 4.1545ms
+2024/07/12 09:46:45 [2024/07/12 - 09:46:45] GET /users/ - Status: 200 - Latency: 4.1545ms
+2024/07/12 11:27:53 Starting server on :8080
+2024/07/12 11:27:56 Start GetUsers controller
+2024/07/12 11:27:56 [2024/07/12 - 11:27:56] GET /users/ - Status: 200 - Latency: 3.2941ms
+2024/07/12 11:27:56 [2024/07/12 - 11:27:56] GET /users/ - Status: 200 - Latency: 3.2941ms
+2024/07/12 11:27:59 Start GetUsers controller
+2024/07/12 11:27:59 [2024/07/12 - 11:27:59] GET /users/ - Status: 200 - Latency: 2.5754ms
+2024/07/12 11:27:59 [2024/07/12 - 11:27:59] GET /users/ - Status: 200 - Latency: 2.5754ms
+2024/07/12 11:28:01 Start GetUsers controller
+2024/07/12 11:28:01 [2024/07/12 - 11:28:01] GET /users/ - Status: 200 - Latency: 2.0338ms
+2024/07/12 11:28:01 [2024/07/12 - 11:28:01] GET /users/ - Status: 200 - Latency: 2.0338ms
+2024/07/12 11:32:22 Start UpdateUser controller
+2024/07/12 11:32:22 [2024/07/12 - 11:32:22] PUT /users/210 - Status: 200 - Latency: 1.6763ms
+2024/07/12 11:32:22 [2024/07/12 - 11:32:22] PUT /users/210 - Status: 200 - Latency: 1.6763ms
+2024/07/12 13:37:28 [2024/07/12 - 13:37:28] GET /debug/pprof/profile - Status: 404 - Latency: 0s
+2024/07/12 13:38:39 [2024/07/12 - 13:38:39] GET /debug/pprof/profile - Status: 404 - Latency: 0s
+2024/07/12 13:39:23 Starting server on :8080
+2024/07/12 13:41:52 Starting server on :8080
+2024/07/12 13:42:09 Start GetUsers controller
+2024/07/12 13:42:09 [2024/07/12 - 13:42:09] GET /users/ - Status: 200 - Latency: 6.3238ms
+2024/07/12 13:42:09 [2024/07/12 - 13:42:09] GET /users/ - Status: 200 - Latency: 6.3238ms
+2024/07/12 13:42:13 Start GetUser controller
+2024/07/12 13:42:13 [2024/07/12 - 13:42:13] GET /users/210 - Status: 200 - Latency: 994.9µs
+2024/07/12 13:42:13 [2024/07/12 - 13:42:13] GET /users/210 - Status: 200 - Latency: 994.9µs
+2024/07/12 13:42:26 Start GetUser controller
+2024/07/12 13:42:26 [2024/07/12 - 13:42:26] GET /users/210 - Status: 200 - Latency: 1.0382ms
+2024/07/12 13:42:26 [2024/07/12 - 13:42:26] GET /users/210 - Status: 200 - Latency: 1.0382ms
+2024/07/12 13:42:28 Start GetUsers controller
+2024/07/12 13:42:28 [2024/07/12 - 13:42:28] GET /users/ - Status: 200 - Latency: 2.7277ms
+2024/07/12 13:42:28 [2024/07/12 - 13:42:28] GET /users/ - Status: 200 - Latency: 2.7277ms
+2024/07/12 13:58:05 Starting server on :8080
+2024/07/12 13:58:11 [2024/07/12 - 13:58:11] GET /metrics - Status: 200 - Latency: 1.0545ms
+2024/07/12 13:58:11 [2024/07/12 - 13:58:11] GET /favicon.ico - Status: 404 - Latency: 0s
+2024/07/12 13:59:10 Starting server on :8080
+2024/07/12 13:59:16 [2024/07/12 - 13:59:16] GET /metrics - Status: 200 - Latency: 2.4298ms
+2024/07/12 14:02:39 [2024/07/12 - 14:02:39] GET / - Status: 404 - Latency: 0s
+2024/07/12 14:02:43 [2024/07/12 - 14:02:43] GET /metrics - Status: 200 - Latency: 278.4µs
+2024/07/12 14:08:47 Starting server on :8080
+2024/07/12 14:08:53 [2024/07/12 - 14:08:53] GET /metrics - Status: 200 - Latency: 1.347ms
+2024/07/12 14:08:53 [2024/07/12 - 14:08:53] GET /favicon.ico - Status: 404 - Latency: 0s
+2024/07/12 14:25:09 Start GetUsers controller
+2024/07/12 14:25:09 [2024/07/12 - 14:25:09] GET /users/ - Status: 200 - Latency: 34.3423ms
+2024/07/12 14:25:09 [2024/07/12 - 14:25:09] GET /users/ - Status: 200 - Latency: 34.5064ms
+2024/07/12 14:25:18 Start GetUsers controller
+2024/07/12 14:25:18 [2024/07/12 - 14:25:18] GET /users/ - Status: 200 - Latency: 5.991ms
+2024/07/12 14:25:18 [2024/07/12 - 14:25:18] GET /users/ - Status: 200 - Latency: 5.991ms
+2024/07/12 14:45:13 [2024/07/12 - 14:45:13] GET /metrics - Status: 200 - Latency: 2.1568ms
+2024/07/12 15:43:09 Start GetUsers controller
+2024/07/12 15:43:09 [2024/07/12 - 15:43:09] GET /users/ - Status: 200 - Latency: 24.242ms
+2024/07/12 15:43:09 [2024/07/12 - 15:43:09] GET /users/ - Status: 200 - Latency: 24.242ms
+2024/07/12 16:08:42 Start CreateUser controller
+2024/07/12 16:08:42 [2024/07/12 - 16:08:42] POST /users/ - Status: 201 - Latency: 109.8645ms
+2024/07/12 16:08:42 [2024/07/12 - 16:08:42] POST /users/ - Status: 201 - Latency: 109.8645ms
+2024/07/12 16:08:53 Start GetUsers controller
+2024/07/12 16:08:53 [2024/07/12 - 16:08:53] GET /users/ - Status: 200 - Latency: 6.3613ms
+2024/07/12 16:08:53 [2024/07/12 - 16:08:53] GET /users/ - Status: 200 - Latency: 6.3613ms
+2024/07/12 16:09:18 Start GetUsers controller
+2024/07/12 16:09:18 [2024/07/12 - 16:09:18] GET /users/ - Status: 200 - Latency: 4.9748ms
+2024/07/12 16:09:18 [2024/07/12 - 16:09:18] GET /users/ - Status: 200 - Latency: 4.9748ms
+2024/07/12 16:09:51 Start GetUsers controller
+2024/07/12 16:09:51 [2024/07/12 - 16:09:51] GET /users/ - Status: 200 - Latency: 5.6512ms
+2024/07/12 16:09:51 [2024/07/12 - 16:09:51] GET /users/ - Status: 200 - Latency: 5.6512ms
+2024/07/12 16:10:05 Start GetUsers controller
+2024/07/12 16:10:05 [2024/07/12 - 16:10:05] GET /users/ - Status: 200 - Latency: 4.4649ms
+2024/07/12 16:10:05 [2024/07/12 - 16:10:05] GET /users/ - Status: 200 - Latency: 4.4649ms
+2024/07/12 16:10:24 Start GetUsers controller
+2024/07/12 16:10:24 [2024/07/12 - 16:10:24] GET /users/ - Status: 200 - Latency: 4.2023ms
+2024/07/12 16:10:24 [2024/07/12 - 16:10:24] GET /users/ - Status: 200 - Latency: 4.2023ms
+2024/07/12 16:10:53 Start GetUsers controller
+2024/07/12 16:10:53 [2024/07/12 - 16:10:53] GET /users/ - Status: 200 - Latency: 61.4863ms
+2024/07/12 16:10:53 [2024/07/12 - 16:10:53] GET /users/ - Status: 200 - Latency: 61.4863ms
+2024/07/12 16:11:03 Start GetUsers controller
+2024/07/12 16:11:03 [2024/07/12 - 16:11:03] GET /users/ - Status: 200 - Latency: 12.9634ms
+2024/07/12 16:11:03 [2024/07/12 - 16:11:03] GET /users/ - Status: 200 - Latency: 12.9634ms
+2024/07/12 16:11:12 Start GetUsers controller
+2024/07/12 16:11:12 [2024/07/12 - 16:11:12] GET /users/ - Status: 200 - Latency: 5.1669ms
+2024/07/12 16:11:12 [2024/07/12 - 16:11:12] GET /users/ - Status: 200 - Latency: 5.5915ms
+2024/07/12 16:22:50 Starting server on :8080
+2024/07/12 16:23:47 Start CreateUser controller
+2024/07/12 16:29:07 Starting server on :8080
+2024/07/12 16:37:00 Starting server on :8080
+2024/07/12 16:37:51 Start GetUsers controller
+2024/07/12 16:37:51 [2024/07/12 - 16:37:51] GET /users/ - Status: 200 - Latency: 5.4875ms
+2024/07/12 16:37:51 [2024/07/12 - 16:37:51] GET /users/ - Status: 200 - Latency: 5.4875ms
+2024/07/12 16:37:57 Starting server on :8080
+2024/07/12 16:38:04 Starting server on :8080
+2024/07/12 16:38:04 Error starting server: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2024/07/12 16:38:13 Starting server on :8080
+2024/07/12 16:38:21 Start GetUsers controller
+2024/07/12 16:38:21 [2024/07/12 - 16:38:21] GET /users/ - Status: 200 - Latency: 3.4183ms
+2024/07/12 16:38:21 [2024/07/12 - 16:38:21] GET /users/ - Status: 200 - Latency: 3.4183ms
+2024/07/12 16:38:28 Start GetUsers controller
+2024/07/12 16:38:28 [2024/07/12 - 16:38:28] GET /users/ - Status: 200 - Latency: 45.156ms
+2024/07/12 16:38:28 [2024/07/12 - 16:38:28] GET /users/ - Status: 200 - Latency: 45.156ms
+2024/07/12 16:38:32 Start CreateUser controller
+2024/07/12 16:38:32 Create repository exec error: sql: expected 9 arguments, got 3
+2024/07/12 16:38:32 CreateUser service error: sql: expected 9 arguments, got 3
+2024/07/12 16:38:32 [2024/07/12 - 16:38:32] POST /users/ - Status: 500 - Latency: 128.1998ms
+2024/07/12 16:38:32 [2024/07/12 - 16:38:32] POST /users/ - Status: 500 - Latency: 128.1998ms
+2024/07/12 16:40:14 Starting server on :8080
+2024/07/12 16:40:20 Start CreateUser controller
+2024/07/12 16:40:20 [2024/07/12 - 16:40:20] POST /users/ - Status: 201 - Latency: 72.5328ms
+2024/07/12 16:40:20 [2024/07/12 - 16:40:20] POST /users/ - Status: 201 - Latency: 72.5328ms
+2024/07/12 16:40:37 Start GetUser controller
+2024/07/12 16:40:37 [2024/07/12 - 16:40:37] GET /users/10044 - Status: 200 - Latency: 718.7µs
+2024/07/12 16:40:37 [2024/07/12 - 16:40:37] GET /users/10044 - Status: 200 - Latency: 718.7µs
+2024/07/12 16:40:43 Start GetUsers controller
+2024/07/12 16:40:43 [2024/07/12 - 16:40:43] GET /users/ - Status: 200 - Latency: 20.0723ms
+2024/07/12 16:40:43 [2024/07/12 - 16:40:43] GET /users/ - Status: 200 - Latency: 20.0723ms
+2024/07/12 16:40:49 Start GetUsers controller
+2024/07/12 16:40:49 [2024/07/12 - 16:40:49] GET /users/ - Status: 200 - Latency: 19.3745ms
+2024/07/12 16:40:49 [2024/07/12 - 16:40:49] GET /users/ - Status: 200 - Latency: 19.3745ms
+2024/07/12 16:46:17 Starting server on :8080
+2024/07/12 16:46:23 Start CreateUser controller
+2024/07/12 16:46:23 [2024/07/12 - 16:46:23] POST /users/ - Status: 201 - Latency: 68.7723ms
+2024/07/12 16:46:23 [2024/07/12 - 16:46:23] POST /users/ - Status: 201 - Latency: 68.7723ms
+2024/07/12 16:46:28 Start CreateUser controller
+2024/07/12 16:46:28 [2024/07/12 - 16:46:28] POST /users/ - Status: 201 - Latency: 97.5097ms
+2024/07/12 16:46:28 [2024/07/12 - 16:46:28] POST /users/ - Status: 201 - Latency: 97.5097ms
+2024/07/12 16:49:22 Starting server on :8080
+2024/07/12 16:49:50 Starting server on :8080
